@@ -1,0 +1,3 @@
+### 初始化项目: edp project init
+### 项目构建: edp build
+### 修改打包的路径, 在edp-build-config.js 里面改 exports.output, 指定新的打包文件夹
