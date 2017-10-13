@@ -1,3 +1,5 @@
+@import './variable';
+
 html, body { margin: 0; padding: 0; }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, cite, code, del, dfn, em, img, q, 
@@ -14,10 +16,15 @@ ol, ul { list-style: none; }
 q:before, q:after, blockquote:before, blockquote:after { content: ""; }
 
 html {
+	height: 100%;
 	overflow-y: scroll;
 	font-size: 100%;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
+}
+body {
+	height: 100%;
+	background-color: @body-bg;
 }
 
 a:focus {

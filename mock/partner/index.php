@@ -1,5 +1,6 @@
 <?php
 require('../main.php');
+// $info['user'] = 
 
 $info = array(
 	'text' => '666'

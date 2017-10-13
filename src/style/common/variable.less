@@ -1,0 +1,29 @@
+@dark-blue: #344159;
+@dark-blue-shadow: #2d446f;
+
+@light-blue: #5a9bff;
+
+@hover-bg: #f1f1f1;
+
+@bule-99: #999;
+@gray-cc: #ccc;
+
+@body-bg: #F7F9FC;
+@header-text: #62769b;
+
+.radius(@radius) {
+	-moz-border-radius: @radius; /* Firefox */
+	-webkit-border-radius: @radius; /* Safari 和 Chrome */
+	border-radius: @radius; /* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 */
+}
+.shadow(@num1, @num2, @num3, @color) {
+	-moz-box-shadow: @num1 @num2 @num3 @color; /* Firefox */
+	-webkit-box-shadow: @num1 @num2 @num3 @color; /* Safari 和 Chrome */
+	box-shadow: @num1 @num2 @num3 @color; /* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 */
+}
+.ellipsis {
+	display:block;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}

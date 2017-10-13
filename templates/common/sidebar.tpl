@@ -1,3 +1,3 @@
 <div class="sidebar">
-	这里是sidebar
+	<div class="big_logo" class="logo"></div>
 </div>
