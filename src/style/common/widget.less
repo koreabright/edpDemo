@@ -3,7 +3,7 @@
 	height: 100%;
 	background-color: @dark-blue;
 	float: left;
-	shadow(0 10px 10px @dark-blue-shadow);
+	.shadow(0, 0, 10px, @dark-blue-shadow);
 
 	.big_logo {
 		height: 45px;
@@ -15,7 +15,7 @@
 .header {
 	height: 45px;
 	background-color: #fff;
-	box-shadow: 0 0 5px 1px #999;
+	.shadow(0, -1px, 10px, @gray-99);
 	font-size: 12px;
 	color: @header-text;
 
@@ -53,7 +53,7 @@
 				z-index: 1;
 				width: 100%;
 				background-color: @hover-bg;
-				shadow(0 2px 5px @dark-blue-shadow);
+				.shadow(0, 1px, 3px, @gray-99);
 				display: none;
 
 				li {

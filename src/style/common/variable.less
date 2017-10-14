@@ -5,16 +5,16 @@
 
 @hover-bg: #f1f1f1;
 
-@bule-99: #999;
+@gray-99: #999;
 @gray-cc: #ccc;
 
 @body-bg: #F7F9FC;
 @header-text: #62769b;
 
-.radius(@radius) {
-	-moz-border-radius: @radius; /* Firefox */
-	-webkit-border-radius: @radius; /* Safari 和 Chrome */
-	border-radius: @radius; /* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 */
+.radius(@radius: 5px) {
+	-webkit-border-radius: @radius;
+	-moz-border-radius: @radius;
+	border-radius: @radius;
 }
 .shadow(@num1, @num2, @num3, @color) {
 	-moz-box-shadow: @num1 @num2 @num3 @color; /* Firefox */
