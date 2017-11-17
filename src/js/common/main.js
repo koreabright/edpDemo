@@ -1,8 +1,6 @@
-require.config({
-	baseUrl: '/src/js'
-})
-require(['base'], function(base) {
-	console.log('This is main');
+define(['dep/jquery'], function() {
+	var winH = $(window).height();
 
-	base.base();
+	$('.content').css('minHeight', winH - 65 + 'px');
+	$('.sidebar').css('minHeight', winH + 'px');
 });
