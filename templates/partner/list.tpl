@@ -1,8 +1,15 @@
 {%extends file="../common/layout.tpl"%}
 {%block name="title"%}第一个页面{%/block%}
 {%block name="content"%}
-	<div>
-		<p>{%$info.text%}</p>
+	<div id="partner">
+		<div class="search-area">
+			<p>
+				<input type="text" class="datepick-input" />
+			</p>
+			<p>
+				<input type="text" id="d241" onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'})" value="" class="Wdate" style="width:300px"/>
+			</p>
+		</div>
 	</div>
 {%/block%}
 {%block name="js"%}

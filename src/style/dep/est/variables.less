@@ -1,0 +1,127 @@
+// global flags
+@support-html5: true;
+@support-ie-version: 7;
+@support-old-ie: ~`@{support-ie-version} < 8`; // [deprecated] use `@support-ie-version` instead
+@use-autoprefixer: true;
+
+@blue-index: #3385ff;
+@light-border-gray:#e8e8e8;
+@split: #f6f6f6;
+
+@orange: #ffa81a;
+@green: #62b500;
+
+@bg-body: #eff0f0;
+@bg-color: #344159;
+@bg-light-color: #263348;
+
+
+@header-font:#62769B;
+@header-hover-grey:#f1f1f1;
+@header-hover-font:#5A9BFF;
+
+@subnave-bg-color: #3B4A64;
+@subnav-hover-color:#41506C;
+@sidebar-hover: #314256;
+@sidebar-font-color:#589CFE;
+@sidebar-hover-bg:#3B4A64;
+@curr-color:#b1c7e6;
+
+@left-width: 210px;
+@btn-bg: #3385ff;
+@btn-bg-hover:#2e77e5;
+
+@notice-color:#f95f45;
+@border-color: #ccc;
+@border-color-ee: #eee;
+@red: #f54336;
+@tab-bottom-line: #9eb7db;
+
+@btn-white-hover: #ebf1fb;
+// default typographic settings
+@default-font-size: 12px;
+@default-text-color: #333;
+@default-input-placeholder-color: #999;
+@default-page-width: 1300px;
+
+@default-base-font-family: "Hiragino Sans GB","Microsoft YaHei","微软雅黑","Microsoft JhengHei";
+@default-heading-font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+@default-code-font-family: Monaco, Consolas, monospace;
+
+// * IE6/7下如果已经找到字体，不会再按字符进行fallback，故必须将雅黑置首位，写上Arial是为了在没有雅黑的情况下显示更好的英文字体
+@default-old-ie-base-font-family: @default-base-font-family;
+@default-old-ie-heading-font-family: "Microsoft YaHei", Arial, sans-serif;
+@default-old-ie-code-font-family: @default-code-font-family;
+
+// default visual settings
+@default-border-radius: 5px;
+@default-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+
+// z-index settings (compatible with BootStrap, ESUI)
+@header-z-index: 1000;
+@footer-z-index: 1000;
+@modal-z-index: 1050;
+
+// default column gutter width
+@default-column-gutter: 3%;
+@column-justify-content: space-between;
+
+
+@border-color: #ccc;
+@waring-color: #ff8f07;
+
+// 自定义样式------------------------------------------------------------------------------------------------------------------------------
+.radius(@radius) {
+	-moz-border-radius: @radius; /* Firefox */
+	-webkit-border-radius: @radius; /* Safari 和 Chrome */
+	border-radius: @radius; /* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 */
+}
+.shadow(@num1, @num2, @num3, @color) {
+	-moz-box-shadow: @num1 @num2 @num3 @color; /* Firefox */
+	-webkit-box-shadow: @num1 @num2 @num3 @color; /* Safari 和 Chrome */
+	box-shadow: @num1 @num2 @num3 @color; /* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 */
+}
+.ellipsis {
+	display:block;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+
+// 初始化
+@sprite: url('/src/img/bi_icon.png');
+@body-bg: #375D81; // sidebar 默认颜色
+@con-bg: #F7F9FC;  // 主体部分背景色
+@black-bg: #000;
+@black-33: #333;
+@black-66: #666;
+@black-99: #999;
+@black-aa: #aaa;
+@black-bb: #bbb;
+@black-dd: #ddd;
+@black-ee: #eee;
+@black-f6: #f6f6f6;
+@white: #fff;
+
+// 红色字体
+@red: #ff6d55;
+
+// sidebar 颜色
+@nav-font: #B1C7E6;      // sidebar 文字默认颜色
+@nav-font-cur: #38adff;  // sidebar 文字选中和划过颜色
+@cur-nav-bg: #2E5172;    // sidebar 一级菜单选中和划过颜色
+@sec-nav-bg: #2B4966;    // sidebar 二级菜单默认颜色
+@userName: #62769B;      // 用户名颜色
+
+// btn 样式
+@btn-hover: #2998E6;
+
+// error 颜色
+@err-bg: #FEEFEC;
+@err-bd: #F95F45;
+@err-text: #F95F45;
+
+// table 划过tr背景颜色
+@tr-hover: #F5F9FB;
+// 高亮的td
+@td-light: #E6F5FE;

@@ -1,0 +1,40 @@
+// global flags
+@support-html5: true;
+@support-ie-version: 7;
+@support-old-ie: ~`@{support-ie-version} < 8`; // [deprecated] use `@support-ie-version` instead
+@use-autoprefixer: true;
+
+@bg-color: #394c63;
+@bg-light-color: #2d3c4f;
+@left-width: 180px;
+@btn-bg: #14a3fa;
+@btn-bg-hover:#118bd5;
+
+@btn-white-hover: #f6f6f6;
+// default typographic settings
+@default-font-size: 12px;
+@default-text-color: #333;
+@default-input-placeholder-color: #999;
+@default-page-width: 1300px;
+
+@default-base-font-family: "Microsoft YaHei","微软雅黑","Microsoft JhengHei";
+@default-heading-font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+@default-code-font-family: Monaco, Consolas, monospace;
+
+// * IE6/7下如果已经找到字体，不会再按字符进行fallback，故必须将雅黑置首位，写上Arial是为了在没有雅黑的情况下显示更好的英文字体
+@default-old-ie-base-font-family: @default-base-font-family;
+@default-old-ie-heading-font-family: "Microsoft YaHei", Arial, sans-serif;
+@default-old-ie-code-font-family: @default-code-font-family;
+
+// default visual settings
+@default-border-radius: 5px;
+@default-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+
+// z-index settings (compatible with BootStrap, ESUI)
+@header-z-index: 1000;
+@footer-z-index: 1000;
+@modal-z-index: 1050;
+
+// default column gutter width
+@default-column-gutter: 3%;
+@column-justify-content: space-between;

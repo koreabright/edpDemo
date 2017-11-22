@@ -1,0 +1,4644 @@
+{
+    "code": 0,
+    "info": [
+        {
+            "id": 1,
+            "name": "北京市",
+            "province_id": 1,
+            "city_areas": [
+                {
+                    "id": 35,
+                    "city_id": 1,
+                    "name": "朝阳区"
+                },
+                {
+                    "id": 36,
+                    "city_id": 1,
+                    "name": "海淀区"
+                },
+                {
+                    "id": 37,
+                    "city_id": 1,
+                    "name": "东城区"
+                },
+                {
+                    "id": 38,
+                    "city_id": 1,
+                    "name": "西城区"
+                },
+                {
+                    "id": 39,
+                    "city_id": 1,
+                    "name": "崇文区"
+                },
+                {
+                    "id": 40,
+                    "city_id": 1,
+                    "name": "宣武区"
+                },
+                {
+                    "id": 41,
+                    "city_id": 1,
+                    "name": "丰台区"
+                },
+                {
+                    "id": 42,
+                    "city_id": 1,
+                    "name": "通州区"
+                },
+                {
+                    "id": 43,
+                    "city_id": 1,
+                    "name": "石景山区"
+                },
+                {
+                    "id": 44,
+                    "city_id": 1,
+                    "name": "房山区"
+                },
+                {
+                    "id": 45,
+                    "city_id": 1,
+                    "name": "昌平区"
+                },
+                {
+                    "id": 46,
+                    "city_id": 1,
+                    "name": "大兴区"
+                },
+                {
+                    "id": 47,
+                    "city_id": 1,
+                    "name": "顺义区"
+                },
+                {
+                    "id": 48,
+                    "city_id": 1,
+                    "name": "平谷区"
+                },
+                {
+                    "id": 49,
+                    "city_id": 1,
+                    "name": "怀柔区"
+                },
+                {
+                    "id": 50,
+                    "city_id": 1,
+                    "name": "门头沟区"
+                },
+                {
+                    "id": 51,
+                    "city_id": 1,
+                    "name": "密云县"
+                },
+                {
+                    "id": 52,
+                    "city_id": 1,
+                    "name": "延庆县"
+                },
+                {
+                    "id": 53,
+                    "city_id": 1,
+                    "name": "燕郊"
+                },
+                {
+                    "id": 54,
+                    "city_id": 1,
+                    "name": "廊坊"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "上海市",
+            "province_id": 793,
+            "city_areas": [
+                {
+                    "id": 55,
+                    "city_id": 2,
+                    "name": "浦东新区"
+                },
+                {
+                    "id": 56,
+                    "city_id": 2,
+                    "name": "徐汇区"
+                },
+                {
+                    "id": 57,
+                    "city_id": 2,
+                    "name": "长宁区"
+                },
+                {
+                    "id": 58,
+                    "city_id": 2,
+                    "name": "普陀区"
+                },
+                {
+                    "id": 59,
+                    "city_id": 2,
+                    "name": "闸北区"
+                },
+                {
+                    "id": 60,
+                    "city_id": 2,
+                    "name": "虹口区"
+                },
+                {
+                    "id": 61,
+                    "city_id": 2,
+                    "name": "杨浦区"
+                },
+                {
+                    "id": 62,
+                    "city_id": 2,
+                    "name": "黄浦区"
+                },
+                {
+                    "id": 63,
+                    "city_id": 2,
+                    "name": "卢湾区"
+                },
+                {
+                    "id": 64,
+                    "city_id": 2,
+                    "name": "静安区"
+                },
+                {
+                    "id": 65,
+                    "city_id": 2,
+                    "name": "宝山区"
+                },
+                {
+                    "id": 66,
+                    "city_id": 2,
+                    "name": "闵行区"
+                },
+                {
+                    "id": 67,
+                    "city_id": 2,
+                    "name": "嘉定区"
+                },
+                {
+                    "id": 68,
+                    "city_id": 2,
+                    "name": "金山区"
+                },
+                {
+                    "id": 69,
+                    "city_id": 2,
+                    "name": "松江区"
+                },
+                {
+                    "id": 70,
+                    "city_id": 2,
+                    "name": "青浦区"
+                },
+                {
+                    "id": 71,
+                    "city_id": 2,
+                    "name": "南汇区"
+                },
+                {
+                    "id": 72,
+                    "city_id": 2,
+                    "name": "奉贤区"
+                },
+                {
+                    "id": 73,
+                    "city_id": 2,
+                    "name": "崇明县"
+                },
+                {
+                    "id": 74,
+                    "city_id": 2,
+                    "name": "昆山市"
+                },
+                {
+                    "id": 75,
+                    "city_id": 2,
+                    "name": "嘉兴市"
+                },
+                {
+                    "id": 76,
+                    "city_id": 2,
+                    "name": "苏州市"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "广州市",
+            "province_id": 1938,
+            "city_areas": [
+                {
+                    "id": 77,
+                    "city_id": 3,
+                    "name": "白云区"
+                },
+                {
+                    "id": 78,
+                    "city_id": 3,
+                    "name": "天河区"
+                },
+                {
+                    "id": 79,
+                    "city_id": 3,
+                    "name": "越秀区"
+                },
+                {
+                    "id": 80,
+                    "city_id": 3,
+                    "name": "荔湾区"
+                },
+                {
+                    "id": 81,
+                    "city_id": 3,
+                    "name": "海珠区"
+                },
+                {
+                    "id": 82,
+                    "city_id": 3,
+                    "name": "黄埔区"
+                },
+                {
+                    "id": 83,
+                    "city_id": 3,
+                    "name": "番禺区"
+                },
+                {
+                    "id": 84,
+                    "city_id": 3,
+                    "name": "南沙区"
+                },
+                {
+                    "id": 85,
+                    "city_id": 3,
+                    "name": "花都区"
+                },
+                {
+                    "id": 86,
+                    "city_id": 3,
+                    "name": "增城市"
+                },
+                {
+                    "id": 87,
+                    "city_id": 3,
+                    "name": "从化市"
+                },
+                {
+                    "id": 88,
+                    "city_id": 3,
+                    "name": "佛山市"
+                },
+                {
+                    "id": 89,
+                    "city_id": 3,
+                    "name": "东莞市"
+                },
+                {
+                    "id": 90,
+                    "city_id": 3,
+                    "name": "中山市"
+                },
+                {
+                    "id": 91,
+                    "city_id": 3,
+                    "name": "珠海市"
+                },
+                {
+                    "id": 92,
+                    "city_id": 3,
+                    "name": "清远市"
+                },
+                {
+                    "id": 93,
+                    "city_id": 3,
+                    "name": "深圳市"
+                },
+                {
+                    "id": 94,
+                    "city_id": 3,
+                    "name": "汕头市"
+                },
+                {
+                    "id": 95,
+                    "city_id": 3,
+                    "name": "肇庆市"
+                },
+                {
+                    "id": 96,
+                    "city_id": 3,
+                    "name": "江门市"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "深圳市",
+            "province_id": 1938,
+            "city_areas": [
+                {
+                    "id": 97,
+                    "city_id": 4,
+                    "name": "福田区"
+                },
+                {
+                    "id": 98,
+                    "city_id": 4,
+                    "name": "罗湖区"
+                },
+                {
+                    "id": 99,
+                    "city_id": 4,
+                    "name": "南山区"
+                },
+                {
+                    "id": 100,
+                    "city_id": 4,
+                    "name": "盐田区"
+                },
+                {
+                    "id": 101,
+                    "city_id": 4,
+                    "name": "宝安区"
+                },
+                {
+                    "id": 102,
+                    "city_id": 4,
+                    "name": "龙岗区"
+                },
+                {
+                    "id": 103,
+                    "city_id": 4,
+                    "name": "光明新区"
+                },
+                {
+                    "id": 104,
+                    "city_id": 4,
+                    "name": "龙华新区"
+                },
+                {
+                    "id": 105,
+                    "city_id": 4,
+                    "name": "坪山新区"
+                },
+                {
+                    "id": 106,
+                    "city_id": 4,
+                    "name": "大鹏新区"
+                },
+                {
+                    "id": 107,
+                    "city_id": 4,
+                    "name": "坑梓镇"
+                },
+                {
+                    "id": 108,
+                    "city_id": 4,
+                    "name": "新圩镇"
+                },
+                {
+                    "id": 109,
+                    "city_id": 4,
+                    "name": "惠州市"
+                },
+                {
+                    "id": 110,
+                    "city_id": 4,
+                    "name": "石碣镇"
+                },
+                {
+                    "id": 111,
+                    "city_id": 4,
+                    "name": "石龙镇"
+                },
+                {
+                    "id": 112,
+                    "city_id": 4,
+                    "name": "茶山镇"
+                },
+                {
+                    "id": 113,
+                    "city_id": 4,
+                    "name": "石排镇"
+                },
+                {
+                    "id": 114,
+                    "city_id": 4,
+                    "name": "企石镇"
+                },
+                {
+                    "id": 115,
+                    "city_id": 4,
+                    "name": "横沥镇"
+                },
+                {
+                    "id": 116,
+                    "city_id": 4,
+                    "name": "桥头镇"
+                },
+                {
+                    "id": 117,
+                    "city_id": 4,
+                    "name": "谢岗镇"
+                },
+                {
+                    "id": 118,
+                    "city_id": 4,
+                    "name": "东坑镇"
+                },
+                {
+                    "id": 119,
+                    "city_id": 4,
+                    "name": "常平镇"
+                },
+                {
+                    "id": 120,
+                    "city_id": 4,
+                    "name": "寮步镇"
+                },
+                {
+                    "id": 121,
+                    "city_id": 4,
+                    "name": "大朗镇"
+                },
+                {
+                    "id": 122,
+                    "city_id": 4,
+                    "name": "黄江镇"
+                },
+                {
+                    "id": 123,
+                    "city_id": 4,
+                    "name": "清溪镇"
+                },
+                {
+                    "id": 124,
+                    "city_id": 4,
+                    "name": "塘厦镇"
+                },
+                {
+                    "id": 125,
+                    "city_id": 4,
+                    "name": "凤岗镇"
+                },
+                {
+                    "id": 126,
+                    "city_id": 4,
+                    "name": "长安镇"
+                },
+                {
+                    "id": 127,
+                    "city_id": 4,
+                    "name": "虎门镇"
+                },
+                {
+                    "id": 128,
+                    "city_id": 4,
+                    "name": "厚街镇"
+                },
+                {
+                    "id": 129,
+                    "city_id": 4,
+                    "name": "沙田镇"
+                },
+                {
+                    "id": 130,
+                    "city_id": 4,
+                    "name": "道滘镇"
+                },
+                {
+                    "id": 131,
+                    "city_id": 4,
+                    "name": "洪梅镇"
+                },
+                {
+                    "id": 132,
+                    "city_id": 4,
+                    "name": "麻涌镇"
+                },
+                {
+                    "id": 133,
+                    "city_id": 4,
+                    "name": "中堂镇"
+                },
+                {
+                    "id": 134,
+                    "city_id": 4,
+                    "name": "高埗镇"
+                },
+                {
+                    "id": 135,
+                    "city_id": 4,
+                    "name": "樟木头镇"
+                },
+                {
+                    "id": 136,
+                    "city_id": 4,
+                    "name": "大岭山镇"
+                },
+                {
+                    "id": 137,
+                    "city_id": 4,
+                    "name": "望牛墩镇"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "哥谭市",
+            "province_id": 3227,
+            "city_areas": [
+                {
+                    "id": 138,
+                    "city_id": 5,
+                    "name": "阿卡姆"
+                },
+                {
+                    "id": 139,
+                    "city_id": 5,
+                    "name": "黑石"
+                },
+                {
+                    "id": 140,
+                    "city_id": 5,
+                    "name": "印第安山"
+                },
+                {
+                    "id": 141,
+                    "city_id": 5,
+                    "name": "上城区"
+                },
+                {
+                    "id": 142,
+                    "city_id": 5,
+                    "name": "下城区"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "天津市",
+            "province_id": 19,
+            "city_areas": [
+                {
+                    "id": 143,
+                    "city_id": 6,
+                    "name": "和平区"
+                },
+                {
+                    "id": 144,
+                    "city_id": 6,
+                    "name": "河东区"
+                },
+                {
+                    "id": 145,
+                    "city_id": 6,
+                    "name": "河西区"
+                },
+                {
+                    "id": 146,
+                    "city_id": 6,
+                    "name": "南开区"
+                },
+                {
+                    "id": 147,
+                    "city_id": 6,
+                    "name": "河北区"
+                },
+                {
+                    "id": 148,
+                    "city_id": 6,
+                    "name": "红桥区"
+                },
+                {
+                    "id": 149,
+                    "city_id": 6,
+                    "name": "东丽区"
+                },
+                {
+                    "id": 150,
+                    "city_id": 6,
+                    "name": "西青区"
+                },
+                {
+                    "id": 151,
+                    "city_id": 6,
+                    "name": "津南区"
+                },
+                {
+                    "id": 152,
+                    "city_id": 6,
+                    "name": "北辰区"
+                },
+                {
+                    "id": 153,
+                    "city_id": 6,
+                    "name": "武清区"
+                },
+                {
+                    "id": 154,
+                    "city_id": 6,
+                    "name": "宝坻区"
+                },
+                {
+                    "id": 155,
+                    "city_id": 6,
+                    "name": "滨海新区"
+                },
+                {
+                    "id": 156,
+                    "city_id": 6,
+                    "name": "大港区"
+                },
+                {
+                    "id": 157,
+                    "city_id": 6,
+                    "name": "宁河县"
+                },
+                {
+                    "id": 158,
+                    "city_id": 6,
+                    "name": "静海县"
+                },
+                {
+                    "id": 159,
+                    "city_id": 6,
+                    "name": "蓟县"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "南京市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 160,
+                    "city_id": 7,
+                    "name": "玄武区"
+                },
+                {
+                    "id": 161,
+                    "city_id": 7,
+                    "name": "秦淮区"
+                },
+                {
+                    "id": 162,
+                    "city_id": 7,
+                    "name": "鼓楼区"
+                },
+                {
+                    "id": 163,
+                    "city_id": 7,
+                    "name": "建邺区"
+                },
+                {
+                    "id": 164,
+                    "city_id": 7,
+                    "name": "雨花台区"
+                },
+                {
+                    "id": 165,
+                    "city_id": 7,
+                    "name": "浦口区"
+                },
+                {
+                    "id": 166,
+                    "city_id": 7,
+                    "name": "六合区"
+                },
+                {
+                    "id": 167,
+                    "city_id": 7,
+                    "name": "栖霞区"
+                },
+                {
+                    "id": 168,
+                    "city_id": 7,
+                    "name": "江宁区"
+                },
+                {
+                    "id": 169,
+                    "city_id": 7,
+                    "name": "溧水区"
+                },
+                {
+                    "id": 170,
+                    "city_id": 7,
+                    "name": "高淳区"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "杭州市",
+            "province_id": 922,
+            "city_areas": [
+                {
+                    "id": 171,
+                    "city_id": 8,
+                    "name": "拱墅区"
+                },
+                {
+                    "id": 172,
+                    "city_id": 8,
+                    "name": "上城区"
+                },
+                {
+                    "id": 173,
+                    "city_id": 8,
+                    "name": "下城区"
+                },
+                {
+                    "id": 174,
+                    "city_id": 8,
+                    "name": "江干区"
+                },
+                {
+                    "id": 175,
+                    "city_id": 8,
+                    "name": "西湖区"
+                },
+                {
+                    "id": 176,
+                    "city_id": 8,
+                    "name": "滨江区"
+                },
+                {
+                    "id": 177,
+                    "city_id": 8,
+                    "name": "萧山区"
+                },
+                {
+                    "id": 178,
+                    "city_id": 8,
+                    "name": "余杭区"
+                },
+                {
+                    "id": 179,
+                    "city_id": 8,
+                    "name": "富阳区"
+                },
+                {
+                    "id": 180,
+                    "city_id": 8,
+                    "name": "桐庐县"
+                },
+                {
+                    "id": 181,
+                    "city_id": 8,
+                    "name": "淳安县"
+                },
+                {
+                    "id": 182,
+                    "city_id": 8,
+                    "name": "建德市"
+                },
+                {
+                    "id": 183,
+                    "city_id": 8,
+                    "name": "临安市"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "东莞市",
+            "province_id": 1938,
+            "city_areas": [
+                {
+                    "id": 184,
+                    "city_id": 9,
+                    "name": "莞城街道"
+                },
+                {
+                    "id": 185,
+                    "city_id": 9,
+                    "name": "南城街道"
+                },
+                {
+                    "id": 186,
+                    "city_id": 9,
+                    "name": "东城街道"
+                },
+                {
+                    "id": 187,
+                    "city_id": 9,
+                    "name": "万江街道"
+                },
+                {
+                    "id": 188,
+                    "city_id": 9,
+                    "name": "石碣镇"
+                },
+                {
+                    "id": 189,
+                    "city_id": 9,
+                    "name": "石龙镇"
+                },
+                {
+                    "id": 190,
+                    "city_id": 9,
+                    "name": "茶山镇"
+                },
+                {
+                    "id": 191,
+                    "city_id": 9,
+                    "name": "石排镇"
+                },
+                {
+                    "id": 192,
+                    "city_id": 9,
+                    "name": "企石镇"
+                },
+                {
+                    "id": 193,
+                    "city_id": 9,
+                    "name": "横沥镇"
+                },
+                {
+                    "id": 194,
+                    "city_id": 9,
+                    "name": "桥头镇"
+                },
+                {
+                    "id": 195,
+                    "city_id": 9,
+                    "name": "谢岗镇"
+                },
+                {
+                    "id": 196,
+                    "city_id": 9,
+                    "name": "东坑镇"
+                },
+                {
+                    "id": 197,
+                    "city_id": 9,
+                    "name": "常平镇"
+                },
+                {
+                    "id": 198,
+                    "city_id": 9,
+                    "name": "寮步镇"
+                },
+                {
+                    "id": 199,
+                    "city_id": 9,
+                    "name": "大朗镇"
+                },
+                {
+                    "id": 200,
+                    "city_id": 9,
+                    "name": "黄江镇"
+                },
+                {
+                    "id": 201,
+                    "city_id": 9,
+                    "name": "清溪镇"
+                },
+                {
+                    "id": 202,
+                    "city_id": 9,
+                    "name": "塘厦镇"
+                },
+                {
+                    "id": 203,
+                    "city_id": 9,
+                    "name": "凤岗镇"
+                },
+                {
+                    "id": 204,
+                    "city_id": 9,
+                    "name": "长安镇"
+                },
+                {
+                    "id": 205,
+                    "city_id": 9,
+                    "name": "虎门镇"
+                },
+                {
+                    "id": 206,
+                    "city_id": 9,
+                    "name": "厚街镇"
+                },
+                {
+                    "id": 207,
+                    "city_id": 9,
+                    "name": "沙田镇"
+                },
+                {
+                    "id": 208,
+                    "city_id": 9,
+                    "name": "道滘镇"
+                },
+                {
+                    "id": 209,
+                    "city_id": 9,
+                    "name": "洪梅镇"
+                },
+                {
+                    "id": 210,
+                    "city_id": 9,
+                    "name": "麻涌镇"
+                },
+                {
+                    "id": 211,
+                    "city_id": 9,
+                    "name": "中堂镇"
+                },
+                {
+                    "id": 212,
+                    "city_id": 9,
+                    "name": "高埗镇"
+                },
+                {
+                    "id": 213,
+                    "city_id": 9,
+                    "name": "樟木头镇"
+                },
+                {
+                    "id": 214,
+                    "city_id": 9,
+                    "name": "大岭山镇"
+                },
+                {
+                    "id": 215,
+                    "city_id": 9,
+                    "name": "望牛墩镇"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "佛山市",
+            "province_id": 1938,
+            "city_areas": [
+                {
+                    "id": 216,
+                    "city_id": 10,
+                    "name": "禅城区"
+                },
+                {
+                    "id": 217,
+                    "city_id": 10,
+                    "name": "顺德区"
+                },
+                {
+                    "id": 218,
+                    "city_id": 10,
+                    "name": "南海区"
+                },
+                {
+                    "id": 219,
+                    "city_id": 10,
+                    "name": "三水区"
+                },
+                {
+                    "id": 220,
+                    "city_id": 10,
+                    "name": "高明区"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "成都市",
+            "province_id": 2272,
+            "city_areas": [
+                {
+                    "id": 221,
+                    "city_id": 11,
+                    "name": "金牛区"
+                },
+                {
+                    "id": 222,
+                    "city_id": 11,
+                    "name": "高新区"
+                },
+                {
+                    "id": 223,
+                    "city_id": 11,
+                    "name": "成华区"
+                },
+                {
+                    "id": 224,
+                    "city_id": 11,
+                    "name": "锦江区"
+                },
+                {
+                    "id": 225,
+                    "city_id": 11,
+                    "name": "武侯区"
+                },
+                {
+                    "id": 226,
+                    "city_id": 11,
+                    "name": "青羊区"
+                },
+                {
+                    "id": 227,
+                    "city_id": 11,
+                    "name": "新都区"
+                },
+                {
+                    "id": 228,
+                    "city_id": 11,
+                    "name": "青白江区"
+                },
+                {
+                    "id": 229,
+                    "city_id": 11,
+                    "name": "龙泉驿区"
+                },
+                {
+                    "id": 230,
+                    "city_id": 11,
+                    "name": "天府新区"
+                },
+                {
+                    "id": 231,
+                    "city_id": 11,
+                    "name": "德阳市"
+                },
+                {
+                    "id": 232,
+                    "city_id": 11,
+                    "name": "双流县"
+                },
+                {
+                    "id": 233,
+                    "city_id": 11,
+                    "name": "新津县"
+                },
+                {
+                    "id": 234,
+                    "city_id": 11,
+                    "name": "温江区"
+                },
+                {
+                    "id": 235,
+                    "city_id": 11,
+                    "name": "郫县"
+                },
+                {
+                    "id": 236,
+                    "city_id": 11,
+                    "name": "彭州市"
+                },
+                {
+                    "id": 237,
+                    "city_id": 11,
+                    "name": "都江堰市"
+                },
+                {
+                    "id": 238,
+                    "city_id": 11,
+                    "name": "崇州市"
+                },
+                {
+                    "id": 239,
+                    "city_id": 11,
+                    "name": "大邑县"
+                },
+                {
+                    "id": 240,
+                    "city_id": 11,
+                    "name": "邛崃市"
+                },
+                {
+                    "id": 241,
+                    "city_id": 11,
+                    "name": "蒲江县"
+                },
+                {
+                    "id": 242,
+                    "city_id": 11,
+                    "name": "金堂县"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "苏州市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 243,
+                    "city_id": 12,
+                    "name": "姑苏区"
+                },
+                {
+                    "id": 244,
+                    "city_id": 12,
+                    "name": "相城区"
+                },
+                {
+                    "id": 245,
+                    "city_id": 12,
+                    "name": "虎丘区"
+                },
+                {
+                    "id": 246,
+                    "city_id": 12,
+                    "name": "吴中区"
+                },
+                {
+                    "id": 247,
+                    "city_id": 12,
+                    "name": "工业园区"
+                },
+                {
+                    "id": 248,
+                    "city_id": 12,
+                    "name": "吴江区"
+                },
+                {
+                    "id": 249,
+                    "city_id": 12,
+                    "name": "张家港市"
+                },
+                {
+                    "id": 250,
+                    "city_id": 12,
+                    "name": "常熟市"
+                },
+                {
+                    "id": 251,
+                    "city_id": 12,
+                    "name": "太仓巿"
+                },
+                {
+                    "id": 252,
+                    "city_id": 12,
+                    "name": "昆山市"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "无锡市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 253,
+                    "city_id": 13,
+                    "name": "崇安区"
+                },
+                {
+                    "id": 254,
+                    "city_id": 13,
+                    "name": "南长区"
+                },
+                {
+                    "id": 255,
+                    "city_id": 13,
+                    "name": "北塘区"
+                },
+                {
+                    "id": 256,
+                    "city_id": 13,
+                    "name": "锡山区"
+                },
+                {
+                    "id": 257,
+                    "city_id": 13,
+                    "name": "惠山区"
+                },
+                {
+                    "id": 258,
+                    "city_id": 13,
+                    "name": "滨湖区"
+                },
+                {
+                    "id": 259,
+                    "city_id": 13,
+                    "name": "江阴市"
+                },
+                {
+                    "id": 260,
+                    "city_id": 13,
+                    "name": "宜兴市"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "常州市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 261,
+                    "city_id": 14,
+                    "name": "武进区"
+                },
+                {
+                    "id": 262,
+                    "city_id": 14,
+                    "name": "天宁区"
+                },
+                {
+                    "id": 263,
+                    "city_id": 14,
+                    "name": "钟楼区"
+                },
+                {
+                    "id": 264,
+                    "city_id": 14,
+                    "name": "新北区"
+                },
+                {
+                    "id": 265,
+                    "city_id": 14,
+                    "name": "金坛区"
+                },
+                {
+                    "id": 266,
+                    "city_id": 14,
+                    "name": "戚墅堰区"
+                },
+                {
+                    "id": 267,
+                    "city_id": 14,
+                    "name": "溧阳市"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "昆山市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 268,
+                    "city_id": 15,
+                    "name": "经济技术开发区"
+                },
+                {
+                    "id": 269,
+                    "city_id": 15,
+                    "name": "综合保税区"
+                },
+                {
+                    "id": 270,
+                    "city_id": 15,
+                    "name": "高新技术产业开发区"
+                },
+                {
+                    "id": 271,
+                    "city_id": 15,
+                    "name": "花桥经济开发区"
+                },
+                {
+                    "id": 272,
+                    "city_id": 15,
+                    "name": "旅游度假区"
+                },
+                {
+                    "id": 273,
+                    "city_id": 15,
+                    "name": "玉山镇"
+                },
+                {
+                    "id": 274,
+                    "city_id": 15,
+                    "name": "巴城镇"
+                },
+                {
+                    "id": 275,
+                    "city_id": 15,
+                    "name": "周市镇"
+                },
+                {
+                    "id": 276,
+                    "city_id": 15,
+                    "name": "陆家镇"
+                },
+                {
+                    "id": 277,
+                    "city_id": 15,
+                    "name": "张浦镇"
+                },
+                {
+                    "id": 278,
+                    "city_id": 15,
+                    "name": "周庄镇"
+                },
+                {
+                    "id": 279,
+                    "city_id": 15,
+                    "name": "锦溪镇"
+                },
+                {
+                    "id": 280,
+                    "city_id": 15,
+                    "name": "千灯镇"
+                },
+                {
+                    "id": 281,
+                    "city_id": 15,
+                    "name": "淀山湖镇"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "武汉市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 282,
+                    "city_id": 16,
+                    "name": "江岸区"
+                },
+                {
+                    "id": 283,
+                    "city_id": 16,
+                    "name": "武昌区"
+                },
+                {
+                    "id": 284,
+                    "city_id": 16,
+                    "name": "江汉区"
+                },
+                {
+                    "id": 285,
+                    "city_id": 16,
+                    "name": "硚口区"
+                },
+                {
+                    "id": 286,
+                    "city_id": 16,
+                    "name": "汉阳区"
+                },
+                {
+                    "id": 287,
+                    "city_id": 16,
+                    "name": "青山区"
+                },
+                {
+                    "id": 288,
+                    "city_id": 16,
+                    "name": "洪山区"
+                },
+                {
+                    "id": 289,
+                    "city_id": 16,
+                    "name": "东西湖区"
+                },
+                {
+                    "id": 290,
+                    "city_id": 16,
+                    "name": "汉南区"
+                },
+                {
+                    "id": 291,
+                    "city_id": 16,
+                    "name": "蔡甸区"
+                },
+                {
+                    "id": 292,
+                    "city_id": 16,
+                    "name": "江夏区"
+                },
+                {
+                    "id": 293,
+                    "city_id": 16,
+                    "name": "黄陂区"
+                },
+                {
+                    "id": 294,
+                    "city_id": 16,
+                    "name": "新洲区"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "嘉兴市",
+            "province_id": 922,
+            "city_areas": [
+                {
+                    "id": 295,
+                    "city_id": 17,
+                    "name": "南湖区"
+                },
+                {
+                    "id": 296,
+                    "city_id": 17,
+                    "name": "秀洲区"
+                },
+                {
+                    "id": 297,
+                    "city_id": 17,
+                    "name": "海宁市"
+                },
+                {
+                    "id": 298,
+                    "city_id": 17,
+                    "name": "平湖市"
+                },
+                {
+                    "id": 299,
+                    "city_id": 17,
+                    "name": "桐乡市"
+                },
+                {
+                    "id": 300,
+                    "city_id": 17,
+                    "name": "嘉善县"
+                },
+                {
+                    "id": 301,
+                    "city_id": 17,
+                    "name": "海盐县"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "青岛市",
+            "province_id": 1353,
+            "city_areas": [
+                {
+                    "id": 302,
+                    "city_id": 18,
+                    "name": "市南区"
+                },
+                {
+                    "id": 303,
+                    "city_id": 18,
+                    "name": "市北区"
+                },
+                {
+                    "id": 304,
+                    "city_id": 18,
+                    "name": "李沧区"
+                },
+                {
+                    "id": 305,
+                    "city_id": 18,
+                    "name": "崂山区"
+                },
+                {
+                    "id": 306,
+                    "city_id": 18,
+                    "name": "城阳区"
+                },
+                {
+                    "id": 307,
+                    "city_id": 18,
+                    "name": "济南市"
+                },
+                {
+                    "id": 308,
+                    "city_id": 18,
+                    "name": "胶州市"
+                },
+                {
+                    "id": 309,
+                    "city_id": 18,
+                    "name": "黄岛市"
+                },
+                {
+                    "id": 310,
+                    "city_id": 18,
+                    "name": "即墨市"
+                },
+                {
+                    "id": 311,
+                    "city_id": 18,
+                    "name": "平度市"
+                },
+                {
+                    "id": 312,
+                    "city_id": 18,
+                    "name": "莱西市"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "芜湖市",
+            "province_id": 1024,
+            "city_areas": [
+                {
+                    "id": 313,
+                    "city_id": 19,
+                    "name": "鸠江区"
+                },
+                {
+                    "id": 314,
+                    "city_id": 19,
+                    "name": "镜湖区"
+                },
+                {
+                    "id": 315,
+                    "city_id": 19,
+                    "name": "弋江区"
+                },
+                {
+                    "id": 316,
+                    "city_id": 19,
+                    "name": "三山区"
+                },
+                {
+                    "id": 317,
+                    "city_id": 19,
+                    "name": "芜湖县"
+                },
+                {
+                    "id": 318,
+                    "city_id": 19,
+                    "name": "繁昌县"
+                },
+                {
+                    "id": 319,
+                    "city_id": 19,
+                    "name": "南陵县"
+                },
+                {
+                    "id": 320,
+                    "city_id": 19,
+                    "name": "无为县"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "合肥市",
+            "province_id": 1024,
+            "city_areas": [
+                {
+                    "id": 321,
+                    "city_id": 20,
+                    "name": "瑶海区"
+                },
+                {
+                    "id": 322,
+                    "city_id": 20,
+                    "name": "庐阳区"
+                },
+                {
+                    "id": 323,
+                    "city_id": 20,
+                    "name": "蜀山区"
+                },
+                {
+                    "id": 324,
+                    "city_id": 20,
+                    "name": "包河区"
+                },
+                {
+                    "id": 325,
+                    "city_id": 20,
+                    "name": "长丰县"
+                },
+                {
+                    "id": 326,
+                    "city_id": 20,
+                    "name": "肥东县"
+                },
+                {
+                    "id": 327,
+                    "city_id": 20,
+                    "name": "肥西县"
+                },
+                {
+                    "id": 328,
+                    "city_id": 20,
+                    "name": "庐江县"
+                },
+                {
+                    "id": 329,
+                    "city_id": 20,
+                    "name": "巢湖市"
+                },
+                {
+                    "id": 330,
+                    "city_id": 20,
+                    "name": "经开区"
+                },
+                {
+                    "id": 331,
+                    "city_id": 20,
+                    "name": "政务区"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "石家庄市",
+            "province_id": 37,
+            "city_areas": [
+                {
+                    "id": 332,
+                    "city_id": 21,
+                    "name": "长安区"
+                },
+                {
+                    "id": 333,
+                    "city_id": 21,
+                    "name": "桥东区"
+                },
+                {
+                    "id": 334,
+                    "city_id": 21,
+                    "name": "桥西区"
+                },
+                {
+                    "id": 335,
+                    "city_id": 21,
+                    "name": "新华区"
+                },
+                {
+                    "id": 336,
+                    "city_id": 21,
+                    "name": "井陉矿区"
+                },
+                {
+                    "id": 337,
+                    "city_id": 21,
+                    "name": "裕华区"
+                },
+                {
+                    "id": 338,
+                    "city_id": 21,
+                    "name": "井陉县"
+                },
+                {
+                    "id": 339,
+                    "city_id": 21,
+                    "name": "正定县"
+                },
+                {
+                    "id": 340,
+                    "city_id": 21,
+                    "name": "栾城"
+                },
+                {
+                    "id": 341,
+                    "city_id": 21,
+                    "name": "行唐"
+                },
+                {
+                    "id": 342,
+                    "city_id": 21,
+                    "name": "灵寿县"
+                },
+                {
+                    "id": 343,
+                    "city_id": 21,
+                    "name": "高邑县"
+                },
+                {
+                    "id": 344,
+                    "city_id": 21,
+                    "name": "深泽县"
+                },
+                {
+                    "id": 345,
+                    "city_id": 21,
+                    "name": "赞皇县"
+                },
+                {
+                    "id": 346,
+                    "city_id": 21,
+                    "name": "无极县"
+                },
+                {
+                    "id": 347,
+                    "city_id": 21,
+                    "name": "平山县"
+                },
+                {
+                    "id": 348,
+                    "city_id": 21,
+                    "name": "元氏县"
+                },
+                {
+                    "id": 349,
+                    "city_id": 21,
+                    "name": "赵县"
+                },
+                {
+                    "id": 350,
+                    "city_id": 21,
+                    "name": "辛集市"
+                },
+                {
+                    "id": 351,
+                    "city_id": 21,
+                    "name": "蒿城市"
+                },
+                {
+                    "id": 352,
+                    "city_id": 21,
+                    "name": "晋州市"
+                },
+                {
+                    "id": 353,
+                    "city_id": 21,
+                    "name": "新乐市"
+                },
+                {
+                    "id": 354,
+                    "city_id": 21,
+                    "name": "鹿泉市"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "廊坊市",
+            "province_id": 37,
+            "city_areas": [
+                {
+                    "id": 355,
+                    "city_id": 22,
+                    "name": "安次区"
+                },
+                {
+                    "id": 356,
+                    "city_id": 22,
+                    "name": "广阳区"
+                },
+                {
+                    "id": 357,
+                    "city_id": 22,
+                    "name": "固安县"
+                },
+                {
+                    "id": 358,
+                    "city_id": 22,
+                    "name": "永清县"
+                },
+                {
+                    "id": 359,
+                    "city_id": 22,
+                    "name": "香河县"
+                },
+                {
+                    "id": 360,
+                    "city_id": 22,
+                    "name": "大城县"
+                },
+                {
+                    "id": 361,
+                    "city_id": 22,
+                    "name": "文安县"
+                },
+                {
+                    "id": 362,
+                    "city_id": 22,
+                    "name": "大厂回族自治县"
+                },
+                {
+                    "id": 363,
+                    "city_id": 22,
+                    "name": "霸州市"
+                },
+                {
+                    "id": 364,
+                    "city_id": 22,
+                    "name": "三河市"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "保定市",
+            "province_id": 37,
+            "city_areas": [
+                {
+                    "id": 365,
+                    "city_id": 23,
+                    "name": "新市区"
+                },
+                {
+                    "id": 366,
+                    "city_id": 23,
+                    "name": "北市区"
+                },
+                {
+                    "id": 367,
+                    "city_id": 23,
+                    "name": "南市区"
+                },
+                {
+                    "id": 368,
+                    "city_id": 23,
+                    "name": "满城县"
+                },
+                {
+                    "id": 369,
+                    "city_id": 23,
+                    "name": "清苑县"
+                },
+                {
+                    "id": 370,
+                    "city_id": 23,
+                    "name": "涞水县"
+                },
+                {
+                    "id": 371,
+                    "city_id": 23,
+                    "name": "阜平县"
+                },
+                {
+                    "id": 372,
+                    "city_id": 23,
+                    "name": "徐水县"
+                },
+                {
+                    "id": 373,
+                    "city_id": 23,
+                    "name": "定兴县"
+                },
+                {
+                    "id": 374,
+                    "city_id": 23,
+                    "name": "唐县"
+                },
+                {
+                    "id": 375,
+                    "city_id": 23,
+                    "name": "高阳县"
+                },
+                {
+                    "id": 376,
+                    "city_id": 23,
+                    "name": "容城县"
+                },
+                {
+                    "id": 377,
+                    "city_id": 23,
+                    "name": "涞源县"
+                },
+                {
+                    "id": 378,
+                    "city_id": 23,
+                    "name": "望都县"
+                },
+                {
+                    "id": 379,
+                    "city_id": 23,
+                    "name": "安新县"
+                },
+                {
+                    "id": 380,
+                    "city_id": 23,
+                    "name": "易县"
+                },
+                {
+                    "id": 381,
+                    "city_id": 23,
+                    "name": "曲阳县"
+                },
+                {
+                    "id": 382,
+                    "city_id": 23,
+                    "name": "蠡县"
+                },
+                {
+                    "id": 383,
+                    "city_id": 23,
+                    "name": "顺平县"
+                },
+                {
+                    "id": 384,
+                    "city_id": 23,
+                    "name": "博野县"
+                },
+                {
+                    "id": 385,
+                    "city_id": 23,
+                    "name": "雄县"
+                },
+                {
+                    "id": 386,
+                    "city_id": 23,
+                    "name": "涿州市"
+                },
+                {
+                    "id": 387,
+                    "city_id": 23,
+                    "name": "定州市"
+                },
+                {
+                    "id": 388,
+                    "city_id": 23,
+                    "name": "安国市"
+                },
+                {
+                    "id": 389,
+                    "city_id": 23,
+                    "name": "高碑店"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "盐城市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 390,
+                    "city_id": 24,
+                    "name": "亭湖区"
+                },
+                {
+                    "id": 391,
+                    "city_id": 24,
+                    "name": "大丰区"
+                },
+                {
+                    "id": 392,
+                    "city_id": 24,
+                    "name": "盐都区"
+                },
+                {
+                    "id": 393,
+                    "city_id": 24,
+                    "name": "东台市"
+                },
+                {
+                    "id": 394,
+                    "city_id": 24,
+                    "name": "响水县"
+                },
+                {
+                    "id": 395,
+                    "city_id": 24,
+                    "name": "滨海县"
+                },
+                {
+                    "id": 396,
+                    "city_id": 24,
+                    "name": "阜宁县"
+                },
+                {
+                    "id": 397,
+                    "city_id": 24,
+                    "name": "射阳县"
+                },
+                {
+                    "id": 398,
+                    "city_id": 24,
+                    "name": "建湖县"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "郑州市",
+            "province_id": 1508,
+            "city_areas": [
+                {
+                    "id": 399,
+                    "city_id": 25,
+                    "name": "巩义市"
+                },
+                {
+                    "id": 400,
+                    "city_id": 25,
+                    "name": "荥阳市"
+                },
+                {
+                    "id": 401,
+                    "city_id": 25,
+                    "name": "新密市"
+                },
+                {
+                    "id": 402,
+                    "city_id": 25,
+                    "name": "新郑市"
+                },
+                {
+                    "id": 403,
+                    "city_id": 25,
+                    "name": "登封市"
+                },
+                {
+                    "id": 404,
+                    "city_id": 25,
+                    "name": "中原区"
+                },
+                {
+                    "id": 405,
+                    "city_id": 25,
+                    "name": "二七区"
+                },
+                {
+                    "id": 406,
+                    "city_id": 25,
+                    "name": "管城回族区"
+                },
+                {
+                    "id": 407,
+                    "city_id": 25,
+                    "name": "金水区"
+                },
+                {
+                    "id": 408,
+                    "city_id": 25,
+                    "name": "上街区"
+                },
+                {
+                    "id": 409,
+                    "city_id": 25,
+                    "name": "惠济区"
+                },
+                {
+                    "id": 410,
+                    "city_id": 25,
+                    "name": "中牟县"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "沧州市",
+            "province_id": 37,
+            "city_areas": [
+                {
+                    "id": 411,
+                    "city_id": 26,
+                    "name": "运河区"
+                },
+                {
+                    "id": 412,
+                    "city_id": 26,
+                    "name": "新华区"
+                },
+                {
+                    "id": 413,
+                    "city_id": 26,
+                    "name": "泊头市"
+                },
+                {
+                    "id": 414,
+                    "city_id": 26,
+                    "name": "任丘市"
+                },
+                {
+                    "id": 415,
+                    "city_id": 26,
+                    "name": "黄骅市"
+                },
+                {
+                    "id": 416,
+                    "city_id": 26,
+                    "name": "河间市"
+                },
+                {
+                    "id": 417,
+                    "city_id": 26,
+                    "name": "沧县"
+                },
+                {
+                    "id": 418,
+                    "city_id": 26,
+                    "name": "青县"
+                },
+                {
+                    "id": 419,
+                    "city_id": 26,
+                    "name": "东光县"
+                },
+                {
+                    "id": 420,
+                    "city_id": 26,
+                    "name": "海兴县"
+                },
+                {
+                    "id": 421,
+                    "city_id": 26,
+                    "name": "盐山县"
+                },
+                {
+                    "id": 422,
+                    "city_id": 26,
+                    "name": "肃宁县"
+                },
+                {
+                    "id": 423,
+                    "city_id": 26,
+                    "name": "南皮县"
+                },
+                {
+                    "id": 424,
+                    "city_id": 26,
+                    "name": "吴桥县"
+                },
+                {
+                    "id": 425,
+                    "city_id": 26,
+                    "name": "献县"
+                },
+                {
+                    "id": 426,
+                    "city_id": 26,
+                    "name": "孟村回族自治县"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "南通市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 427,
+                    "city_id": 27,
+                    "name": "崇川区"
+                },
+                {
+                    "id": 428,
+                    "city_id": 27,
+                    "name": "港闸区"
+                },
+                {
+                    "id": 429,
+                    "city_id": 27,
+                    "name": "通州区"
+                },
+                {
+                    "id": 430,
+                    "city_id": 27,
+                    "name": "海安"
+                },
+                {
+                    "id": 431,
+                    "city_id": 27,
+                    "name": "如东"
+                },
+                {
+                    "id": 432,
+                    "city_id": 27,
+                    "name": "启东"
+                },
+                {
+                    "id": 433,
+                    "city_id": 27,
+                    "name": "如皋"
+                },
+                {
+                    "id": 434,
+                    "city_id": 27,
+                    "name": "海门"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "淮安市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 435,
+                    "city_id": 28,
+                    "name": "清河区"
+                },
+                {
+                    "id": 436,
+                    "city_id": 28,
+                    "name": "清浦区"
+                },
+                {
+                    "id": 437,
+                    "city_id": 28,
+                    "name": "淮阴区"
+                },
+                {
+                    "id": 438,
+                    "city_id": 28,
+                    "name": "淮安区"
+                },
+                {
+                    "id": 439,
+                    "city_id": 28,
+                    "name": "经济技术开发区"
+                },
+                {
+                    "id": 440,
+                    "city_id": 28,
+                    "name": "涟水县"
+                },
+                {
+                    "id": 441,
+                    "city_id": 28,
+                    "name": "洪泽县"
+                },
+                {
+                    "id": 442,
+                    "city_id": 28,
+                    "name": "盱眙县"
+                },
+                {
+                    "id": 443,
+                    "city_id": 28,
+                    "name": "金湖县"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "宁波市",
+            "province_id": 922,
+            "city_areas": [
+                {
+                    "id": 444,
+                    "city_id": 29,
+                    "name": "海曙区"
+                },
+                {
+                    "id": 445,
+                    "city_id": 29,
+                    "name": "江东区"
+                },
+                {
+                    "id": 446,
+                    "city_id": 29,
+                    "name": "江北区"
+                },
+                {
+                    "id": 447,
+                    "city_id": 29,
+                    "name": "北仑区"
+                },
+                {
+                    "id": 448,
+                    "city_id": 29,
+                    "name": "镇海区"
+                },
+                {
+                    "id": 449,
+                    "city_id": 29,
+                    "name": "鄞州区"
+                },
+                {
+                    "id": 450,
+                    "city_id": 29,
+                    "name": "余姚市"
+                },
+                {
+                    "id": 451,
+                    "city_id": 29,
+                    "name": "慈溪市"
+                },
+                {
+                    "id": 452,
+                    "city_id": 29,
+                    "name": "奉化市"
+                },
+                {
+                    "id": 453,
+                    "city_id": 29,
+                    "name": "象山县"
+                },
+                {
+                    "id": 454,
+                    "city_id": 29,
+                    "name": "宁海县"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "鄂州市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 455,
+                    "city_id": 30,
+                    "name": "梁子湖区"
+                },
+                {
+                    "id": 456,
+                    "city_id": 30,
+                    "name": "华容区"
+                },
+                {
+                    "id": 457,
+                    "city_id": 30,
+                    "name": "鄂城区"
+                },
+                {
+                    "id": 458,
+                    "city_id": 30,
+                    "name": "葛店开发区"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "黄石市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 459,
+                    "city_id": 32,
+                    "name": "黄石港区"
+                },
+                {
+                    "id": 460,
+                    "city_id": 32,
+                    "name": "西塞山区"
+                },
+                {
+                    "id": 461,
+                    "city_id": 32,
+                    "name": "下陆区"
+                },
+                {
+                    "id": 462,
+                    "city_id": 32,
+                    "name": "铁山区"
+                },
+                {
+                    "id": 463,
+                    "city_id": 32,
+                    "name": "黄石经济技术开发区"
+                },
+                {
+                    "id": 464,
+                    "city_id": 32,
+                    "name": "大冶市"
+                },
+                {
+                    "id": 465,
+                    "city_id": 32,
+                    "name": "阳新县"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "宜昌市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 466,
+                    "city_id": 33,
+                    "name": "夷陵区"
+                },
+                {
+                    "id": 467,
+                    "city_id": 33,
+                    "name": "西陵区"
+                },
+                {
+                    "id": 468,
+                    "city_id": 33,
+                    "name": "点军区"
+                },
+                {
+                    "id": 469,
+                    "city_id": 33,
+                    "name": "猇亭区"
+                },
+                {
+                    "id": 470,
+                    "city_id": 33,
+                    "name": "伍家岗区"
+                },
+                {
+                    "id": 471,
+                    "city_id": 33,
+                    "name": "宜都市"
+                },
+                {
+                    "id": 472,
+                    "city_id": 33,
+                    "name": "当阳市"
+                },
+                {
+                    "id": 473,
+                    "city_id": 33,
+                    "name": "枝江市"
+                },
+                {
+                    "id": 474,
+                    "city_id": 33,
+                    "name": "远安县"
+                },
+                {
+                    "id": 475,
+                    "city_id": 33,
+                    "name": "兴山县"
+                },
+                {
+                    "id": 476,
+                    "city_id": 33,
+                    "name": "秭归县"
+                },
+                {
+                    "id": 477,
+                    "city_id": 33,
+                    "name": "长阳土家族自治县"
+                },
+                {
+                    "id": 478,
+                    "city_id": 33,
+                    "name": "五峰土家族自治县"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "襄阳市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 479,
+                    "city_id": 34,
+                    "name": "襄城区"
+                },
+                {
+                    "id": 480,
+                    "city_id": 34,
+                    "name": "樊城区"
+                },
+                {
+                    "id": 481,
+                    "city_id": 34,
+                    "name": "襄州区"
+                },
+                {
+                    "id": 482,
+                    "city_id": 34,
+                    "name": "宜城市"
+                },
+                {
+                    "id": 483,
+                    "city_id": 34,
+                    "name": "老河口市"
+                },
+                {
+                    "id": 484,
+                    "city_id": 34,
+                    "name": "枣阳市"
+                },
+                {
+                    "id": 485,
+                    "city_id": 34,
+                    "name": "南漳县"
+                },
+                {
+                    "id": 486,
+                    "city_id": 34,
+                    "name": "保康县"
+                },
+                {
+                    "id": 487,
+                    "city_id": 34,
+                    "name": "谷城县"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "仙桃市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 488,
+                    "city_id": 35,
+                    "name": "仙桃市"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "唐山市",
+            "province_id": 37,
+            "city_areas": [
+                {
+                    "id": 489,
+                    "city_id": 36,
+                    "name": "路南区"
+                },
+                {
+                    "id": 490,
+                    "city_id": 36,
+                    "name": "路北区"
+                },
+                {
+                    "id": 491,
+                    "city_id": 36,
+                    "name": "古冶区"
+                },
+                {
+                    "id": 492,
+                    "city_id": 36,
+                    "name": "开平区"
+                },
+                {
+                    "id": 493,
+                    "city_id": 36,
+                    "name": "丰南区"
+                },
+                {
+                    "id": 494,
+                    "city_id": 36,
+                    "name": "丰润区"
+                },
+                {
+                    "id": 495,
+                    "city_id": 36,
+                    "name": "曹妃甸区"
+                },
+                {
+                    "id": 496,
+                    "city_id": 36,
+                    "name": "遵化市"
+                },
+                {
+                    "id": 497,
+                    "city_id": 36,
+                    "name": "迁安市"
+                },
+                {
+                    "id": 498,
+                    "city_id": 36,
+                    "name": "滦县"
+                },
+                {
+                    "id": 499,
+                    "city_id": 36,
+                    "name": "滦南县"
+                },
+                {
+                    "id": 500,
+                    "city_id": 36,
+                    "name": "乐亭县"
+                },
+                {
+                    "id": 501,
+                    "city_id": 36,
+                    "name": "迁西县"
+                },
+                {
+                    "id": 502,
+                    "city_id": 36,
+                    "name": "玉田县"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "孝感市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 503,
+                    "city_id": 37,
+                    "name": "孝南区"
+                },
+                {
+                    "id": 504,
+                    "city_id": 37,
+                    "name": "汉川市"
+                },
+                {
+                    "id": 505,
+                    "city_id": 37,
+                    "name": "应城市"
+                },
+                {
+                    "id": 506,
+                    "city_id": 37,
+                    "name": "安陆市"
+                },
+                {
+                    "id": 507,
+                    "city_id": 37,
+                    "name": "云梦县"
+                },
+                {
+                    "id": 508,
+                    "city_id": 37,
+                    "name": "孝昌县"
+                },
+                {
+                    "id": 509,
+                    "city_id": 37,
+                    "name": "大悟县"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "荆州市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 510,
+                    "city_id": 38,
+                    "name": "荆州区"
+                },
+                {
+                    "id": 511,
+                    "city_id": 38,
+                    "name": "沙市区"
+                },
+                {
+                    "id": 512,
+                    "city_id": 38,
+                    "name": "荆州经济开发区"
+                },
+                {
+                    "id": 513,
+                    "city_id": 38,
+                    "name": "松滋市"
+                },
+                {
+                    "id": 514,
+                    "city_id": 38,
+                    "name": "石首市"
+                },
+                {
+                    "id": 515,
+                    "city_id": 38,
+                    "name": "洪湖市"
+                },
+                {
+                    "id": 516,
+                    "city_id": 38,
+                    "name": "江陵县"
+                },
+                {
+                    "id": 517,
+                    "city_id": 38,
+                    "name": "公安县"
+                },
+                {
+                    "id": 518,
+                    "city_id": 38,
+                    "name": "监利县"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "荆门市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 519,
+                    "city_id": 39,
+                    "name": "东宝区"
+                },
+                {
+                    "id": 520,
+                    "city_id": 39,
+                    "name": "掇刀区"
+                },
+                {
+                    "id": 521,
+                    "city_id": 39,
+                    "name": "漳河新区"
+                },
+                {
+                    "id": 522,
+                    "city_id": 39,
+                    "name": "屈家岭管理区"
+                },
+                {
+                    "id": 523,
+                    "city_id": 39,
+                    "name": "荆门高新技术产业开发区"
+                },
+                {
+                    "id": 524,
+                    "city_id": 39,
+                    "name": "钟祥市"
+                },
+                {
+                    "id": 525,
+                    "city_id": 39,
+                    "name": "京山县"
+                },
+                {
+                    "id": 526,
+                    "city_id": 39,
+                    "name": "沙洋县"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "咸宁市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 527,
+                    "city_id": 40,
+                    "name": "咸安区"
+                },
+                {
+                    "id": 528,
+                    "city_id": 40,
+                    "name": "赤壁市"
+                },
+                {
+                    "id": 529,
+                    "city_id": 40,
+                    "name": "通城县"
+                },
+                {
+                    "id": 530,
+                    "city_id": 40,
+                    "name": "通山县"
+                },
+                {
+                    "id": 531,
+                    "city_id": 40,
+                    "name": "嘉鱼县"
+                },
+                {
+                    "id": 532,
+                    "city_id": 40,
+                    "name": "崇阳县"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "随州市",
+            "province_id": 1684,
+            "city_areas": [
+                {
+                    "id": 533,
+                    "city_id": 41,
+                    "name": "曾都区"
+                },
+                {
+                    "id": 534,
+                    "city_id": 41,
+                    "name": "广水市"
+                },
+                {
+                    "id": 535,
+                    "city_id": 41,
+                    "name": "随县"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "承德市",
+            "province_id": 37,
+            "city_areas": [
+                {
+                    "id": 536,
+                    "city_id": 42,
+                    "name": "双桥区"
+                },
+                {
+                    "id": 537,
+                    "city_id": 42,
+                    "name": "双滦区"
+                },
+                {
+                    "id": 538,
+                    "city_id": 42,
+                    "name": "鹰手营子矿区"
+                },
+                {
+                    "id": 539,
+                    "city_id": 42,
+                    "name": "承德县"
+                },
+                {
+                    "id": 540,
+                    "city_id": 42,
+                    "name": "兴隆县"
+                },
+                {
+                    "id": 541,
+                    "city_id": 42,
+                    "name": "平泉县"
+                },
+                {
+                    "id": 542,
+                    "city_id": 42,
+                    "name": "滦平县"
+                },
+                {
+                    "id": 543,
+                    "city_id": 42,
+                    "name": "隆化县"
+                },
+                {
+                    "id": 544,
+                    "city_id": 42,
+                    "name": "丰宁满族自治县"
+                },
+                {
+                    "id": 545,
+                    "city_id": 42,
+                    "name": "宽城满族自治县"
+                },
+                {
+                    "id": 546,
+                    "city_id": 42,
+                    "name": "围场满族蒙古族自治县"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "张家口市",
+            "province_id": 37,
+            "city_areas": [
+                {
+                    "id": 547,
+                    "city_id": 43,
+                    "name": "桥西区"
+                },
+                {
+                    "id": 548,
+                    "city_id": 43,
+                    "name": "桥东区"
+                },
+                {
+                    "id": 549,
+                    "city_id": 43,
+                    "name": "宣化区"
+                },
+                {
+                    "id": 550,
+                    "city_id": 43,
+                    "name": "万全区"
+                },
+                {
+                    "id": 551,
+                    "city_id": 43,
+                    "name": "崇礼区"
+                },
+                {
+                    "id": 552,
+                    "city_id": 43,
+                    "name": "下花园区"
+                },
+                {
+                    "id": 553,
+                    "city_id": 43,
+                    "name": "塞北管理区"
+                },
+                {
+                    "id": 554,
+                    "city_id": 43,
+                    "name": "察北管理区"
+                },
+                {
+                    "id": 555,
+                    "city_id": 43,
+                    "name": "张家口市高新技术产业开发区"
+                },
+                {
+                    "id": 556,
+                    "city_id": 43,
+                    "name": "蔚县"
+                },
+                {
+                    "id": 557,
+                    "city_id": 43,
+                    "name": "张北县"
+                },
+                {
+                    "id": 558,
+                    "city_id": 43,
+                    "name": "康保县"
+                },
+                {
+                    "id": 559,
+                    "city_id": 43,
+                    "name": "沽源县"
+                },
+                {
+                    "id": 560,
+                    "city_id": 43,
+                    "name": "尚义县"
+                },
+                {
+                    "id": 561,
+                    "city_id": 43,
+                    "name": "阳原县"
+                },
+                {
+                    "id": 562,
+                    "city_id": 43,
+                    "name": "怀安县"
+                },
+                {
+                    "id": 563,
+                    "city_id": 43,
+                    "name": "怀来县"
+                },
+                {
+                    "id": 564,
+                    "city_id": 43,
+                    "name": "涿鹿县"
+                },
+                {
+                    "id": 565,
+                    "city_id": 43,
+                    "name": "赤城县"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "秦皇岛市",
+            "province_id": 37,
+            "city_areas": [
+                {
+                    "id": 566,
+                    "city_id": 44,
+                    "name": "海港区"
+                },
+                {
+                    "id": 567,
+                    "city_id": 44,
+                    "name": "抚宁区"
+                },
+                {
+                    "id": 568,
+                    "city_id": 44,
+                    "name": "山海关区"
+                },
+                {
+                    "id": 569,
+                    "city_id": 44,
+                    "name": "北戴河区"
+                },
+                {
+                    "id": 570,
+                    "city_id": 44,
+                    "name": "北戴河新区"
+                },
+                {
+                    "id": 571,
+                    "city_id": 44,
+                    "name": "秦皇岛经济技术开发区"
+                },
+                {
+                    "id": 572,
+                    "city_id": 44,
+                    "name": "昌黎县"
+                },
+                {
+                    "id": 573,
+                    "city_id": 44,
+                    "name": "卢龙县"
+                },
+                {
+                    "id": 574,
+                    "city_id": 44,
+                    "name": "青龙满族自治县"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "六安市",
+            "province_id": 1024,
+            "city_areas": [
+                {
+                    "id": 575,
+                    "city_id": 45,
+                    "name": "金安区"
+                },
+                {
+                    "id": 576,
+                    "city_id": 45,
+                    "name": "裕安区"
+                },
+                {
+                    "id": 577,
+                    "city_id": 45,
+                    "name": "叶集区"
+                },
+                {
+                    "id": 578,
+                    "city_id": 45,
+                    "name": "霍邱县"
+                },
+                {
+                    "id": 579,
+                    "city_id": 45,
+                    "name": "霍山县"
+                },
+                {
+                    "id": 580,
+                    "city_id": 45,
+                    "name": "金寨县"
+                },
+                {
+                    "id": 581,
+                    "city_id": 45,
+                    "name": "舒城县"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "湖州市",
+            "province_id": 922,
+            "city_areas": [
+                {
+                    "id": 582,
+                    "city_id": 46,
+                    "name": "吴兴区"
+                },
+                {
+                    "id": 583,
+                    "city_id": 46,
+                    "name": "南浔区"
+                },
+                {
+                    "id": 584,
+                    "city_id": 46,
+                    "name": "德清县"
+                },
+                {
+                    "id": 585,
+                    "city_id": 46,
+                    "name": "长兴县"
+                },
+                {
+                    "id": 586,
+                    "city_id": 46,
+                    "name": "安吉县"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "太原市",
+            "province_id": 220,
+            "city_areas": [
+                {
+                    "id": 587,
+                    "city_id": 47,
+                    "name": "小店区"
+                },
+                {
+                    "id": 588,
+                    "city_id": 47,
+                    "name": "迎泽区"
+                },
+                {
+                    "id": 589,
+                    "city_id": 47,
+                    "name": "杏花岭区"
+                },
+                {
+                    "id": 590,
+                    "city_id": 47,
+                    "name": "尖草坪区"
+                },
+                {
+                    "id": 591,
+                    "city_id": 47,
+                    "name": "万柏林区"
+                },
+                {
+                    "id": 592,
+                    "city_id": 47,
+                    "name": "晋源区"
+                },
+                {
+                    "id": 593,
+                    "city_id": 47,
+                    "name": "清徐县"
+                },
+                {
+                    "id": 594,
+                    "city_id": 47,
+                    "name": "阳曲县"
+                },
+                {
+                    "id": 595,
+                    "city_id": 47,
+                    "name": "娄烦县"
+                },
+                {
+                    "id": 596,
+                    "city_id": 47,
+                    "name": "古交市"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "丽江市",
+            "province_id": 2575,
+            "city_areas": [
+                {
+                    "id": 597,
+                    "city_id": 48,
+                    "name": "古城区"
+                },
+                {
+                    "id": 598,
+                    "city_id": 48,
+                    "name": "玉龙纳西族自治县"
+                },
+                {
+                    "id": 599,
+                    "city_id": 48,
+                    "name": "永胜县"
+                },
+                {
+                    "id": 600,
+                    "city_id": 48,
+                    "name": "华坪县"
+                },
+                {
+                    "id": 601,
+                    "city_id": 48,
+                    "name": "宁蒗彝族自治县"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "鞍山市",
+            "province_id": 466,
+            "city_areas": [
+                {
+                    "id": 602,
+                    "city_id": 49,
+                    "name": "铁东区"
+                },
+                {
+                    "id": 603,
+                    "city_id": 49,
+                    "name": "铁西区"
+                },
+                {
+                    "id": 604,
+                    "city_id": 49,
+                    "name": "立山区"
+                },
+                {
+                    "id": 605,
+                    "city_id": 49,
+                    "name": "千山区"
+                },
+                {
+                    "id": 606,
+                    "city_id": 49,
+                    "name": "台安县"
+                },
+                {
+                    "id": 607,
+                    "city_id": 49,
+                    "name": "岫岩满族自治县"
+                },
+                {
+                    "id": 608,
+                    "city_id": 49,
+                    "name": "海城市"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "济南市",
+            "province_id": 1353,
+            "city_areas": [
+                {
+                    "id": 609,
+                    "city_id": 50,
+                    "name": "历下区"
+                },
+                {
+                    "id": 610,
+                    "city_id": 50,
+                    "name": "市中区"
+                },
+                {
+                    "id": 611,
+                    "city_id": 50,
+                    "name": "槐荫区"
+                },
+                {
+                    "id": 612,
+                    "city_id": 50,
+                    "name": "天桥区"
+                },
+                {
+                    "id": 613,
+                    "city_id": 50,
+                    "name": "历城区"
+                },
+                {
+                    "id": 614,
+                    "city_id": 50,
+                    "name": "长清区"
+                },
+                {
+                    "id": 615,
+                    "city_id": 50,
+                    "name": "平阴县"
+                },
+                {
+                    "id": 616,
+                    "city_id": 50,
+                    "name": "济阳县"
+                },
+                {
+                    "id": 617,
+                    "city_id": 50,
+                    "name": "商河县"
+                },
+                {
+                    "id": 618,
+                    "city_id": 50,
+                    "name": "章丘市"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "克孜勒苏柯尔克孜自治州",
+            "province_id": 3102,
+            "city_areas": [
+                {
+                    "id": 619,
+                    "city_id": 51,
+                    "name": "阿图什市"
+                },
+                {
+                    "id": 620,
+                    "city_id": 51,
+                    "name": "阿克陶县"
+                },
+                {
+                    "id": 621,
+                    "city_id": 51,
+                    "name": "阿合奇县"
+                },
+                {
+                    "id": 622,
+                    "city_id": 51,
+                    "name": "乌恰县"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "台北市",
+            "province_id": 3221,
+            "city_areas": []
+        },
+        {
+            "id": 53,
+            "name": "莆田市",
+            "province_id": 1146,
+            "city_areas": [
+                {
+                    "id": 623,
+                    "city_id": 53,
+                    "name": "城厢区"
+                },
+                {
+                    "id": 624,
+                    "city_id": 53,
+                    "name": "涵江区"
+                },
+                {
+                    "id": 625,
+                    "city_id": 53,
+                    "name": "荔城区"
+                },
+                {
+                    "id": 626,
+                    "city_id": 53,
+                    "name": "秀屿区"
+                },
+                {
+                    "id": 627,
+                    "city_id": 53,
+                    "name": "仙游县"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "呼和浩特市",
+            "province_id": 351,
+            "city_areas": [
+                {
+                    "id": 628,
+                    "city_id": 54,
+                    "name": "新城区"
+                },
+                {
+                    "id": 629,
+                    "city_id": 54,
+                    "name": "回民区"
+                },
+                {
+                    "id": 630,
+                    "city_id": 54,
+                    "name": "玉泉区"
+                },
+                {
+                    "id": 631,
+                    "city_id": 54,
+                    "name": "赛罕区"
+                },
+                {
+                    "id": 632,
+                    "city_id": 54,
+                    "name": "土默特左旗"
+                },
+                {
+                    "id": 633,
+                    "city_id": 54,
+                    "name": "托克托县"
+                },
+                {
+                    "id": 634,
+                    "city_id": 54,
+                    "name": "和林格尔县"
+                },
+                {
+                    "id": 635,
+                    "city_id": 54,
+                    "name": "清水河县"
+                },
+                {
+                    "id": 636,
+                    "city_id": 54,
+                    "name": "武川县"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "包头市",
+            "province_id": 351,
+            "city_areas": [
+                {
+                    "id": 637,
+                    "city_id": 55,
+                    "name": "东河区"
+                },
+                {
+                    "id": 638,
+                    "city_id": 55,
+                    "name": "昆都仑区"
+                },
+                {
+                    "id": 639,
+                    "city_id": 55,
+                    "name": "青山区"
+                },
+                {
+                    "id": 640,
+                    "city_id": 55,
+                    "name": "石拐区"
+                },
+                {
+                    "id": 641,
+                    "city_id": 55,
+                    "name": "白云鄂博矿区"
+                },
+                {
+                    "id": 642,
+                    "city_id": 55,
+                    "name": "九原区"
+                },
+                {
+                    "id": 643,
+                    "city_id": 55,
+                    "name": "土默特右旗"
+                },
+                {
+                    "id": 644,
+                    "city_id": 55,
+                    "name": "固阳县"
+                },
+                {
+                    "id": 645,
+                    "city_id": 55,
+                    "name": "达尔罕茂明安联合旗"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "宿迁市",
+            "province_id": 811,
+            "city_areas": [
+                {
+                    "id": 646,
+                    "city_id": 56,
+                    "name": "宿城区"
+                },
+                {
+                    "id": 647,
+                    "city_id": 56,
+                    "name": "宿豫区"
+                },
+                {
+                    "id": 648,
+                    "city_id": 56,
+                    "name": "沭阳县"
+                },
+                {
+                    "id": 649,
+                    "city_id": 56,
+                    "name": "泗阳县"
+                },
+                {
+                    "id": 650,
+                    "city_id": 56,
+                    "name": "泗洪县"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "景德镇市",
+            "province_id": 1241,
+            "city_areas": [
+                {
+                    "id": 651,
+                    "city_id": 57,
+                    "name": "昌江区"
+                },
+                {
+                    "id": 652,
+                    "city_id": 57,
+                    "name": "珠山区"
+                },
+                {
+                    "id": 653,
+                    "city_id": 57,
+                    "name": "浮梁县"
+                },
+                {
+                    "id": 654,
+                    "city_id": 57,
+                    "name": "乐平市"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "上饶市",
+            "province_id": 1241,
+            "city_areas": [
+                {
+                    "id": 655,
+                    "city_id": 58,
+                    "name": "信州区"
+                },
+                {
+                    "id": 656,
+                    "city_id": 58,
+                    "name": "广丰区"
+                },
+                {
+                    "id": 657,
+                    "city_id": 58,
+                    "name": "上饶县"
+                },
+                {
+                    "id": 658,
+                    "city_id": 58,
+                    "name": "玉山县"
+                },
+                {
+                    "id": 659,
+                    "city_id": 58,
+                    "name": "铅山县"
+                },
+                {
+                    "id": 660,
+                    "city_id": 58,
+                    "name": "横峰县"
+                },
+                {
+                    "id": 661,
+                    "city_id": 58,
+                    "name": "弋阳县"
+                },
+                {
+                    "id": 662,
+                    "city_id": 58,
+                    "name": "余干县"
+                },
+                {
+                    "id": 663,
+                    "city_id": 58,
+                    "name": "鄱阳县"
+                },
+                {
+                    "id": 664,
+                    "city_id": 58,
+                    "name": "万年县"
+                },
+                {
+                    "id": 665,
+                    "city_id": 58,
+                    "name": "婺源县"
+                },
+                {
+                    "id": 666,
+                    "city_id": 58,
+                    "name": "德兴市"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "吕梁市",
+            "province_id": 220,
+            "city_areas": [
+                {
+                    "id": 667,
+                    "city_id": 59,
+                    "name": "离石区"
+                },
+                {
+                    "id": 668,
+                    "city_id": 59,
+                    "name": "文水县"
+                },
+                {
+                    "id": 669,
+                    "city_id": 59,
+                    "name": "交城县"
+                },
+                {
+                    "id": 670,
+                    "city_id": 59,
+                    "name": "兴县"
+                },
+                {
+                    "id": 671,
+                    "city_id": 59,
+                    "name": "临县"
+                },
+                {
+                    "id": 672,
+                    "city_id": 59,
+                    "name": "柳林县"
+                },
+                {
+                    "id": 673,
+                    "city_id": 59,
+                    "name": "石楼县"
+                },
+                {
+                    "id": 674,
+                    "city_id": 59,
+                    "name": "岚县"
+                },
+                {
+                    "id": 675,
+                    "city_id": 59,
+                    "name": "方山县"
+                },
+                {
+                    "id": 676,
+                    "city_id": 59,
+                    "name": "中阳县"
+                },
+                {
+                    "id": 677,
+                    "city_id": 59,
+                    "name": "交口县"
+                },
+                {
+                    "id": 678,
+                    "city_id": 59,
+                    "name": "孝义市"
+                },
+                {
+                    "id": 679,
+                    "city_id": 59,
+                    "name": "汾阳市"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "海北藏族自治州",
+            "province_id": 3022,
+            "city_areas": [
+                {
+                    "id": 680,
+                    "city_id": 60,
+                    "name": "门源回族自治县"
+                },
+                {
+                    "id": 681,
+                    "city_id": 60,
+                    "name": "祁连县"
+                },
+                {
+                    "id": 682,
+                    "city_id": 60,
+                    "name": "海晏县"
+                },
+                {
+                    "id": 683,
+                    "city_id": 60,
+                    "name": "刚察县"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "乌海市",
+            "province_id": 351,
+            "city_areas": [
+                {
+                    "id": 684,
+                    "city_id": 61,
+                    "name": "海勃湾区"
+                },
+                {
+                    "id": 685,
+                    "city_id": 61,
+                    "name": "海南区"
+                },
+                {
+                    "id": 686,
+                    "city_id": 61,
+                    "name": "乌达区"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "临汾市",
+            "province_id": 220,
+            "city_areas": [
+                {
+                    "id": 687,
+                    "city_id": 62,
+                    "name": "离石区"
+                },
+                {
+                    "id": 688,
+                    "city_id": 62,
+                    "name": "文水县"
+                },
+                {
+                    "id": 689,
+                    "city_id": 62,
+                    "name": "交城县"
+                },
+                {
+                    "id": 690,
+                    "city_id": 62,
+                    "name": "兴县"
+                },
+                {
+                    "id": 691,
+                    "city_id": 62,
+                    "name": "临县"
+                },
+                {
+                    "id": 692,
+                    "city_id": 62,
+                    "name": "柳林县"
+                },
+                {
+                    "id": 693,
+                    "city_id": 62,
+                    "name": "石楼县"
+                },
+                {
+                    "id": 694,
+                    "city_id": 62,
+                    "name": "岚县"
+                },
+                {
+                    "id": 695,
+                    "city_id": 62,
+                    "name": "方山县"
+                },
+                {
+                    "id": 696,
+                    "city_id": 62,
+                    "name": "中阳县"
+                },
+                {
+                    "id": 697,
+                    "city_id": 62,
+                    "name": "交口县"
+                },
+                {
+                    "id": 698,
+                    "city_id": 62,
+                    "name": "孝义市"
+                },
+                {
+                    "id": 699,
+                    "city_id": 62,
+                    "name": "汾阳市"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "日喀则市",
+            "province_id": 2721,
+            "city_areas": [
+                {
+                    "id": 700,
+                    "city_id": 63,
+                    "name": "桑珠孜区"
+                },
+                {
+                    "id": 701,
+                    "city_id": 63,
+                    "name": "南木林县"
+                },
+                {
+                    "id": 702,
+                    "city_id": 63,
+                    "name": "江孜县"
+                },
+                {
+                    "id": 703,
+                    "city_id": 63,
+                    "name": "定日县"
+                },
+                {
+                    "id": 704,
+                    "city_id": 63,
+                    "name": "萨迦县"
+                },
+                {
+                    "id": 705,
+                    "city_id": 63,
+                    "name": "拉孜县"
+                },
+                {
+                    "id": 706,
+                    "city_id": 63,
+                    "name": "昂仁县"
+                },
+                {
+                    "id": 707,
+                    "city_id": 63,
+                    "name": "谢通门县"
+                },
+                {
+                    "id": 708,
+                    "city_id": 63,
+                    "name": "白朗县"
+                },
+                {
+                    "id": 709,
+                    "city_id": 63,
+                    "name": "仁布县"
+                },
+                {
+                    "id": 710,
+                    "city_id": 63,
+                    "name": "康马县"
+                },
+                {
+                    "id": 711,
+                    "city_id": 63,
+                    "name": "定结县"
+                },
+                {
+                    "id": 712,
+                    "city_id": 63,
+                    "name": "仲巴县"
+                },
+                {
+                    "id": 713,
+                    "city_id": 63,
+                    "name": "亚东县"
+                },
+                {
+                    "id": 714,
+                    "city_id": 63,
+                    "name": "吉隆县"
+                },
+                {
+                    "id": 715,
+                    "city_id": 63,
+                    "name": "聂拉木县"
+                },
+                {
+                    "id": 716,
+                    "city_id": 63,
+                    "name": "萨嘎县"
+                },
+                {
+                    "id": 717,
+                    "city_id": 63,
+                    "name": "岗巴县"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "齐齐哈尔市",
+            "province_id": 651,
+            "city_areas": [
+                {
+                    "id": 718,
+                    "city_id": 64,
+                    "name": "龙沙区"
+                },
+                {
+                    "id": 719,
+                    "city_id": 64,
+                    "name": "建华区"
+                },
+                {
+                    "id": 720,
+                    "city_id": 64,
+                    "name": "铁锋区"
+                },
+                {
+                    "id": 721,
+                    "city_id": 64,
+                    "name": "昂昂溪区"
+                },
+                {
+                    "id": 722,
+                    "city_id": 64,
+                    "name": "富拉尔基区"
+                },
+                {
+                    "id": 723,
+                    "city_id": 64,
+                    "name": "碾子山区"
+                },
+                {
+                    "id": 724,
+                    "city_id": 64,
+                    "name": "梅里斯达斡尔族区"
+                },
+                {
+                    "id": 725,
+                    "city_id": 64,
+                    "name": "龙江县"
+                },
+                {
+                    "id": 726,
+                    "city_id": 64,
+                    "name": "依安县"
+                },
+                {
+                    "id": 727,
+                    "city_id": 64,
+                    "name": "泰来县"
+                },
+                {
+                    "id": 728,
+                    "city_id": 64,
+                    "name": "甘南县"
+                },
+                {
+                    "id": 729,
+                    "city_id": 64,
+                    "name": "富裕县"
+                },
+                {
+                    "id": 730,
+                    "city_id": 64,
+                    "name": "克山县"
+                },
+                {
+                    "id": 731,
+                    "city_id": 64,
+                    "name": "克东县"
+                },
+                {
+                    "id": 732,
+                    "city_id": 64,
+                    "name": "拜泉县"
+                },
+                {
+                    "id": 733,
+                    "city_id": 64,
+                    "name": "讷河市"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "济源市",
+            "province_id": 1508,
+            "city_areas": [
+                {
+                    "id": 734,
+                    "city_id": 65,
+                    "name": "济源市"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "中山市",
+            "province_id": 1938,
+            "city_areas": [
+                {
+                    "id": 735,
+                    "city_id": 66,
+                    "name": "中山市"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "昆明市",
+            "province_id": 2575,
+            "city_areas": [
+                {
+                    "id": 736,
+                    "city_id": 67,
+                    "name": "五华区"
+                },
+                {
+                    "id": 737,
+                    "city_id": 67,
+                    "name": "盘龙区"
+                },
+                {
+                    "id": 738,
+                    "city_id": 67,
+                    "name": "官渡区"
+                },
+                {
+                    "id": 739,
+                    "city_id": 67,
+                    "name": "西山区"
+                },
+                {
+                    "id": 740,
+                    "city_id": 67,
+                    "name": "东川区"
+                },
+                {
+                    "id": 741,
+                    "city_id": 67,
+                    "name": "呈贡区"
+                },
+                {
+                    "id": 742,
+                    "city_id": 67,
+                    "name": "晋宁县"
+                },
+                {
+                    "id": 743,
+                    "city_id": 67,
+                    "name": "富民县"
+                },
+                {
+                    "id": 744,
+                    "city_id": 67,
+                    "name": "宜良县"
+                },
+                {
+                    "id": 745,
+                    "city_id": 67,
+                    "name": "石林彝族自治县"
+                },
+                {
+                    "id": 746,
+                    "city_id": 67,
+                    "name": "嵩明县"
+                },
+                {
+                    "id": 747,
+                    "city_id": 67,
+                    "name": "禄劝彝族苗族自治县"
+                },
+                {
+                    "id": 748,
+                    "city_id": 67,
+                    "name": "寻甸回族彝族自治县"
+                },
+                {
+                    "id": 749,
+                    "city_id": 67,
+                    "name": "安宁市"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "丽水市",
+            "province_id": 922,
+            "city_areas": [
+                {
+                    "id": 750,
+                    "city_id": 68,
+                    "name": "莲都区"
+                },
+                {
+                    "id": 751,
+                    "city_id": 68,
+                    "name": "青田县"
+                },
+                {
+                    "id": 752,
+                    "city_id": 68,
+                    "name": "缙云县"
+                },
+                {
+                    "id": 753,
+                    "city_id": 68,
+                    "name": "遂昌县"
+                },
+                {
+                    "id": 754,
+                    "city_id": 68,
+                    "name": "松阳县"
+                },
+                {
+                    "id": 755,
+                    "city_id": 68,
+                    "name": "云和县"
+                },
+                {
+                    "id": 756,
+                    "city_id": 68,
+                    "name": "庆元县"
+                },
+                {
+                    "id": 757,
+                    "city_id": 68,
+                    "name": "景宁畲族自治县"
+                },
+                {
+                    "id": 758,
+                    "city_id": 68,
+                    "name": "龙泉市"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "安庆市",
+            "province_id": 1024,
+            "city_areas": [
+                {
+                    "id": 759,
+                    "city_id": 69,
+                    "name": "迎江区"
+                },
+                {
+                    "id": 760,
+                    "city_id": 69,
+                    "name": "大观区"
+                },
+                {
+                    "id": 761,
+                    "city_id": 69,
+                    "name": "宜秀区"
+                },
+                {
+                    "id": 762,
+                    "city_id": 69,
+                    "name": "怀宁县"
+                },
+                {
+                    "id": 763,
+                    "city_id": 69,
+                    "name": "潜山县"
+                },
+                {
+                    "id": 764,
+                    "city_id": 69,
+                    "name": "太湖县"
+                },
+                {
+                    "id": 765,
+                    "city_id": 69,
+                    "name": "宿松县"
+                },
+                {
+                    "id": 766,
+                    "city_id": 69,
+                    "name": "望江县"
+                },
+                {
+                    "id": 767,
+                    "city_id": 69,
+                    "name": "岳西县"
+                },
+                {
+                    "id": 768,
+                    "city_id": 69,
+                    "name": "桐城市"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "曲靖市",
+            "province_id": 2575,
+            "city_areas": [
+                {
+                    "id": 769,
+                    "city_id": 70,
+                    "name": "五华区"
+                },
+                {
+                    "id": 770,
+                    "city_id": 70,
+                    "name": "盘龙区"
+                },
+                {
+                    "id": 771,
+                    "city_id": 70,
+                    "name": "官渡区"
+                },
+                {
+                    "id": 772,
+                    "city_id": 70,
+                    "name": "西山区"
+                },
+                {
+                    "id": 773,
+                    "city_id": 70,
+                    "name": "东川区"
+                },
+                {
+                    "id": 774,
+                    "city_id": 70,
+                    "name": "呈贡区"
+                },
+                {
+                    "id": 775,
+                    "city_id": 70,
+                    "name": "晋宁县"
+                },
+                {
+                    "id": 776,
+                    "city_id": 70,
+                    "name": "富民县"
+                },
+                {
+                    "id": 777,
+                    "city_id": 70,
+                    "name": "宜良县"
+                },
+                {
+                    "id": 778,
+                    "city_id": 70,
+                    "name": "石林彝族自治县"
+                },
+                {
+                    "id": 779,
+                    "city_id": 70,
+                    "name": "嵩明县"
+                },
+                {
+                    "id": 780,
+                    "city_id": 70,
+                    "name": "禄劝彝族苗族自治县"
+                },
+                {
+                    "id": 781,
+                    "city_id": 70,
+                    "name": "寻甸回族彝族自治县"
+                },
+                {
+                    "id": 782,
+                    "city_id": 70,
+                    "name": "安宁市"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "四平市",
+            "province_id": 581,
+            "city_areas": [
+                {
+                    "id": 783,
+                    "city_id": 71,
+                    "name": "铁西区"
+                },
+                {
+                    "id": 784,
+                    "city_id": 71,
+                    "name": "铁东区"
+                },
+                {
+                    "id": 785,
+                    "city_id": 71,
+                    "name": "梨树县"
+                },
+                {
+                    "id": 786,
+                    "city_id": 71,
+                    "name": "伊通满族自治县"
+                },
+                {
+                    "id": 787,
+                    "city_id": 71,
+                    "name": "公主岭市"
+                },
+                {
+                    "id": 788,
+                    "city_id": 71,
+                    "name": "双辽市"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "重庆市",
+            "province_id": 2232,
+            "city_areas": [
+                {
+                    "id": 789,
+                    "city_id": 72,
+                    "name": "万州区"
+                },
+                {
+                    "id": 790,
+                    "city_id": 72,
+                    "name": "涪陵区"
+                },
+                {
+                    "id": 791,
+                    "city_id": 72,
+                    "name": "渝中区"
+                },
+                {
+                    "id": 792,
+                    "city_id": 72,
+                    "name": "大渡口区"
+                },
+                {
+                    "id": 793,
+                    "city_id": 72,
+                    "name": "江北区"
+                },
+                {
+                    "id": 794,
+                    "city_id": 72,
+                    "name": "沙坪坝区"
+                },
+                {
+                    "id": 795,
+                    "city_id": 72,
+                    "name": "九龙坡区"
+                },
+                {
+                    "id": 796,
+                    "city_id": 72,
+                    "name": "南岸区"
+                },
+                {
+                    "id": 797,
+                    "city_id": 72,
+                    "name": "北碚区"
+                },
+                {
+                    "id": 798,
+                    "city_id": 72,
+                    "name": "綦江区"
+                },
+                {
+                    "id": 799,
+                    "city_id": 72,
+                    "name": "大足区"
+                },
+                {
+                    "id": 800,
+                    "city_id": 72,
+                    "name": "渝北区"
+                },
+                {
+                    "id": 801,
+                    "city_id": 72,
+                    "name": "巴南区"
+                },
+                {
+                    "id": 802,
+                    "city_id": 72,
+                    "name": "黔江区"
+                },
+                {
+                    "id": 803,
+                    "city_id": 72,
+                    "name": "长寿区"
+                },
+                {
+                    "id": 804,
+                    "city_id": 72,
+                    "name": "江津区"
+                },
+                {
+                    "id": 805,
+                    "city_id": 72,
+                    "name": "合川区"
+                },
+                {
+                    "id": 806,
+                    "city_id": 72,
+                    "name": "永川区"
+                },
+                {
+                    "id": 807,
+                    "city_id": 72,
+                    "name": "南川区"
+                },
+                {
+                    "id": 808,
+                    "city_id": 72,
+                    "name": "璧山区"
+                },
+                {
+                    "id": 809,
+                    "city_id": 72,
+                    "name": "铜梁区"
+                },
+                {
+                    "id": 810,
+                    "city_id": 72,
+                    "name": "潼南区"
+                },
+                {
+                    "id": 811,
+                    "city_id": 72,
+                    "name": "荣昌区"
+                },
+                {
+                    "id": 812,
+                    "city_id": 72,
+                    "name": "梁平县"
+                },
+                {
+                    "id": 813,
+                    "city_id": 72,
+                    "name": "城口县"
+                },
+                {
+                    "id": 814,
+                    "city_id": 72,
+                    "name": "丰都县"
+                },
+                {
+                    "id": 815,
+                    "city_id": 72,
+                    "name": "垫江县"
+                },
+                {
+                    "id": 816,
+                    "city_id": 72,
+                    "name": "武隆县"
+                },
+                {
+                    "id": 817,
+                    "city_id": 72,
+                    "name": "忠县"
+                },
+                {
+                    "id": 818,
+                    "city_id": 72,
+                    "name": "开县"
+                },
+                {
+                    "id": 819,
+                    "city_id": 72,
+                    "name": "云阳县"
+                },
+                {
+                    "id": 820,
+                    "city_id": 72,
+                    "name": "奉节县"
+                },
+                {
+                    "id": 821,
+                    "city_id": 72,
+                    "name": "巫山县"
+                },
+                {
+                    "id": 822,
+                    "city_id": 72,
+                    "name": "巫溪县"
+                },
+                {
+                    "id": 823,
+                    "city_id": 72,
+                    "name": "石柱土家族自治县"
+                },
+                {
+                    "id": 824,
+                    "city_id": 72,
+                    "name": "秀山土家族苗族自治县"
+                },
+                {
+                    "id": 825,
+                    "city_id": 72,
+                    "name": "酉阳土家族苗族自治县"
+                },
+                {
+                    "id": 826,
+                    "city_id": 72,
+                    "name": "彭水苗族土家族自治县"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "三明市",
+            "province_id": 1146,
+            "city_areas": [
+                {
+                    "id": 827,
+                    "city_id": 73,
+                    "name": "梅列区"
+                },
+                {
+                    "id": 828,
+                    "city_id": 73,
+                    "name": "三元区"
+                },
+                {
+                    "id": 829,
+                    "city_id": 73,
+                    "name": "明溪县"
+                },
+                {
+                    "id": 830,
+                    "city_id": 73,
+                    "name": "清流县"
+                },
+                {
+                    "id": 831,
+                    "city_id": 73,
+                    "name": "宁化县"
+                },
+                {
+                    "id": 832,
+                    "city_id": 73,
+                    "name": "大田县"
+                },
+                {
+                    "id": 833,
+                    "city_id": 73,
+                    "name": "尤溪县"
+                },
+                {
+                    "id": 834,
+                    "city_id": 73,
+                    "name": "沙县"
+                },
+                {
+                    "id": 835,
+                    "city_id": 73,
+                    "name": "将乐县"
+                },
+                {
+                    "id": 836,
+                    "city_id": 73,
+                    "name": "泰宁县"
+                },
+                {
+                    "id": 837,
+                    "city_id": 73,
+                    "name": "建宁县"
+                },
+                {
+                    "id": 838,
+                    "city_id": 73,
+                    "name": "永安市"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "固原市",
+            "province_id": 3074,
+            "city_areas": [
+                {
+                    "id": 839,
+                    "city_id": 74,
+                    "name": "原州区"
+                },
+                {
+                    "id": 840,
+                    "city_id": 74,
+                    "name": "西吉县"
+                },
+                {
+                    "id": 841,
+                    "city_id": 74,
+                    "name": "隆德县"
+                },
+                {
+                    "id": 842,
+                    "city_id": 74,
+                    "name": "泾源县"
+                },
+                {
+                    "id": 843,
+                    "city_id": 74,
+                    "name": "彭阳县"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "阜阳市",
+            "province_id": 1024,
+            "city_areas": [
+                {
+                    "id": 844,
+                    "city_id": 75,
+                    "name": "颍州区"
+                },
+                {
+                    "id": 845,
+                    "city_id": 75,
+                    "name": "颍东区"
+                },
+                {
+                    "id": 846,
+                    "city_id": 75,
+                    "name": "颍泉区"
+                },
+                {
+                    "id": 847,
+                    "city_id": 75,
+                    "name": "临泉县"
+                },
+                {
+                    "id": 848,
+                    "city_id": 75,
+                    "name": "太和县"
+                },
+                {
+                    "id": 849,
+                    "city_id": 75,
+                    "name": "阜南县"
+                },
+                {
+                    "id": 850,
+                    "city_id": 75,
+                    "name": "颍上县"
+                },
+                {
+                    "id": 851,
+                    "city_id": 75,
+                    "name": "界首市"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "厦门市",
+            "province_id": 1146,
+            "city_areas": [
+                {
+                    "id": 852,
+                    "city_id": 76,
+                    "name": "思明区"
+                },
+                {
+                    "id": 853,
+                    "city_id": 76,
+                    "name": "海沧区"
+                },
+                {
+                    "id": 854,
+                    "city_id": 76,
+                    "name": "湖里区"
+                },
+                {
+                    "id": 855,
+                    "city_id": 76,
+                    "name": "集美区"
+                },
+                {
+                    "id": 856,
+                    "city_id": 76,
+                    "name": "同安区"
+                },
+                {
+                    "id": 857,
+                    "city_id": 76,
+                    "name": "翔安区"
+                }
+            ]
+        }
+    ]
+}

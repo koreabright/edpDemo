@@ -3,6 +3,7 @@
 <head>
 	<title>{%block name="title"%}{%/block%}</title>
 	<script type="text/javascript" src="/src/js/dep/require.js"></script>
+	<script type="text/javascript" src="/src/js/dep/jquery.js"></script>
 	<link type="text/css" rel="stylesheet" href="/src/style/common/base.less" />
 	{%block name="css"%}{%/block%}
 </head>

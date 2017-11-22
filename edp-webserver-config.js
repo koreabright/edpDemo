@@ -5,6 +5,32 @@
 
 /* globals home, redirect, content, empty, autocss, file, less, stylus, proxyNoneExists */
 
+// 重定向到mock地址
+function mockHandler(map) {
+    return function (context) {
+        var pathname = map[context.request.pathname];
+
+        if(!pathname){ // 支持正则匹配
+            Object.keys(map).some(function(url){
+                if(new RegExp(url).test(context.request.pathname)){
+                    pathname = map[url];
+                    return true;
+                }
+            });
+        }
+
+        if (pathname.match(/\.php$/)) {
+            return php(null, null, function (context) {
+                context.request.pathname = pathname;
+                return context.request;
+            }).call(this, context);
+        }
+        else {
+            var filename = require('path').normalize( __dirname + '/' + pathname);
+            context.content = require('fs').readFileSync(filename, 'utf-8');
+        }
+    };
+}
 
 exports.port = 8848;
 exports.directoryIndexes = true;
@@ -53,6 +79,12 @@ exports.getLocations = function () {
             handler: [
                 file(),
                 stylus()
+            ]
+        },
+        {
+            location: /^\/api\/v1/,
+            handler: [
+                mockHandler(require('./mock/api/debug'))
             ]
         },
         {
