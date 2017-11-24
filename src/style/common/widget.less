@@ -10,8 +10,10 @@
 	.big_logo {
 		height: 45px;
 		width: 210px;
-		background: @dark-blue url('https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3993539705,1265316773&fm=27&gp=0.jpg') 9% 8% no-repeat;
+		background: @sprite -258px -40px no-repeat;
 	}
+
+	
 }
 
 .header {
@@ -75,10 +77,13 @@
 
 .content {
 	margin: 10px;
+	overflow: auto;
 	margin-left: 220px;
-	position: absolute;
-	bottom: 0;
-	top: 45px;
-	right: 0;
-	left: 0;
+	background-color: #fff;
+	.radius(3px);
+	box-shadow: 0 0 5px 1px rgba(0,0,0,.08);
+
+	.content-box {
+		margin: 10px;
+	}
 }

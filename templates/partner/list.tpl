@@ -7,7 +7,7 @@
 				<input type="text" class="datepick-input" />
 			</p>
 			<p>
-				<input type="text" id="d241" onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'})" value="" class="Wdate" style="width:300px"/>
+				<input type="text" id="d241" onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'})" value="2008-02-12 09:50:50"  class="Wdate" style="width:300px"/>
 			</p>
 		</div>
 	</div>
