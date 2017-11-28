@@ -165,6 +165,106 @@
 			};
 		3) 构造函数: 前面都是参数, 最后一个是函数体 (不推荐)
 			var sum = new Function ('num1', 'num2', 'return num1 + num2');
+	3、函数声明 & 函数表达式 区别
+		js解析器会率先读取函数声明, 使其在执行任何代码之前可以访问(优先级提升), 而函数表达式则只有在代码执行到声明语句所在代码行时才被解释执行
+		1)  alert(sum(10, 10));
+		    function sum (num1, num2) { return num1 + num2; };
+			// 可以执行
+		2)  alert(sum(10, 10));
+		    var sum = function (num1, num2) { return num1 + num2; }
+			// 报错
+	4、js 函数没有重载, 如果定义了两个同名函数, 后面的会覆盖前面的
+	5、函数名 是 一个变量, 也是一个指向函数对象的 指针, 所以函数可以作为值来使用
+	6、函数可以作为参数传递给另外一个函数, 也可以作为另外一个函数的结果返回
+	7、每个函数都有的 内部 属性: 
+		1) arguments: 伪数组, 包含着传入函数的所有参数
+			arguments有一个属性: callee, 是指针, 指向当前函数
+			// arguments、callee、递归函数的应用
+			function factorial (num) {
+				if (num <= 1) {
+					return 1;
+				} else {
+					return num * argument.callee(num - 1);
+				}
+			}
+			注: 所谓递归函数: 就是自己调用自己
+		2) this: 指针, 指向当前函数执行的环境
+		3) caller: 指针, 指向调用当前函数的函数(如果是在全局作用域调用函数, 则返回 null)
+			function outer () {
+				inner();
+			}
+			function inner () {
+				alert(arguments.callee.caller);
+			}
+			outer();
+			// 函数 outer 里面调用了函数 inner , 所以最终结果为outer函数的源码
+	8、每个函数都有的属性
+		1)length: 表示函数 期望接收到的参数 的个数
+			function sum (num1, num2) {
+				return num1 + num2;
+			}
+			alet(sum.length); => 2
+		2) prototype: 保存引用类型所有实例方法的真正所在( prototype 不可枚举, 使用 for-in 方法, 无法发现 )
+	9、call & apply : 在特定的作用域内调用函数( 等于设置函数体内this对象的值 )
+		1) apply(): 
+			参数一: 函数运行的作用域
+			参数二: 参数数组(可以是arguments)
+			例1: 第二个参数是arguments
+				function sum (num1, num2) {
+					return num1 + num2;
+				}
+				function callSum (num1, num2) {
+					return sum.apply(this, arguments);
+				}
+				alert(callSum(10, 10)); => 20
+			例2: 第二个参数是数组
+				function sum (num1, num2) {
+					return num1 + num2;
+				}
+				function callSum (num1, num2) {
+					return sum.apply(this, [num1, num2]);
+				}
+				alert(callSum(10, 10)); => 20
+		2) call();
+			参数一: 函数运行的作用域
+			参数二: 逐个列举需要的参数
+			例: 
+				function sum (num1, num2) {
+					return num1 + num2;
+				}
+				function callSum (num1, num2) {
+					return sum.call(this, num1, num2);
+				}
+				alert(callSum(10, 10)); => 20
+		注意: apply 和 call 都是重新指定当前函数执行的作用域, 区别在于apply 的参数可以用数组或者arguments 表示, 但是call方法的参数只能逐个列举出来
+	10、call 和 apply 的强大之处
+		可以用着两个方法, 扩大函数赖以运行的作用域
+		function sayColor () {
+			console.log(this.color);
+		}
+		window.color = 'red';
+		var o = {
+			color: 'green'
+		};
+
+		console.log(sayColor.call(this)); => red
+		console.log(sayColor.call(window)); => red
+		console.log(sayColor.call(o)); => green
+	11、bind: 生成一个函数, 这个函数的this, 会被指定到传给bind方法的参数上面
+		例:
+		function sayColor () {
+			console.log(this.color);
+		}
+		var color = 'red';
+		var o = {
+			color: 'green';
+		}
+
+		var objectSayColor = sayColor.bind(o); // 定义一个函数objectSayColor, objectSayColor 的执行等同于在 o 的作用域内执行sayColor方法
+		objectSayColor(); => red
+六、基本包装类型
+	1、3个基本包装类型, 也是特殊的引用类型: String, Boolean, Number
+	2、
 </pre>
 </div>
 {%/block%}

@@ -14,8 +14,10 @@ define(function (require, exports, module) {
 	};
 
 	var bindDom = function () {
-		$(nodes.p).on('click', function () {
-			alert('p');
+		$(nodes.input).on('keyup', function () {
+			if($(nodes.input).val().length >= 10) {
+				$(nodes.input).blur();
+			}
 		});
 	};
 
